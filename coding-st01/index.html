@@ -1,29 +1,20 @@
-<!doctype html>
-<html lang="zh-CN">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<meta name="color-scheme" content="light">
-<title>第一条试编：检查归属</title>
-<style>
+<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>编码试编：F17对象指向</title><style>
 *{box-sizing:border-box}body{margin:0;background:#f3f5f7;color:#202b36;font-family:system-ui,-apple-system,"PingFang SC","Microsoft YaHei",sans-serif;line-height:1.85}main{max-width:760px;margin:auto;padding:28px 20px 52px}.eyebrow{font-size:14px;color:#526273;letter-spacing:.06em}h1{font-size:28px;line-height:1.4;margin:10px 0 18px}h2{font-size:19px;margin:0 0 12px}.card{background:#fff;border:1px solid #dfe5ea;border-radius:16px;padding:22px;margin:20px 0}.question{border-left:4px solid #3463a4}pre{font:inherit;white-space:pre-wrap;overflow-wrap:anywhere;word-break:normal;margin:0;font-size:19px;line-height:1.95}p{font-size:17px;margin:12px 0}.meta{font-size:14px;color:#526273;overflow-wrap:anywhere}a{color:#235b99;text-underline-offset:3px}.reply{font-size:17px;font-weight:600}details{margin-top:18px}summary{cursor:pointer;font-size:15px;color:#526273}@media(max-width:420px){main{padding:22px 14px 40px}h1{font-size:25px}.card{padding:18px}pre{font-size:18px}}
-</style>
-</head>
-<body><main>
-<div class="eyebrow">单人编码试编 · ST01 · 第1题</div>
-<h1>这8次检查应归到谁名下？</h1>
-<p>先阅读下面这段报告原文，再给出你的判断。</p>
-<section class="card"><h2>报告原文</h2>
-<pre id="source-evidence">该企业未纳入市应急管理局及张浦镇年度检查计划，由张浦镇网格员进行日常检查，日常监管由网格巡查。网格员于2021年至事故发生前共检查8次，共发现安全隐患12条。发现的安全隐患主要集中在车间消防通道堵塞、安全责任制不完善、安全责任书未签订等，安全巡查流于形式，对企业巡查中发现的部分安全隐患督促整改不力。</pre>
-<p class="meta">报告：昆山市张浦彩印厂俱进路分厂“2·22”一般火灾事故调查报告<br>“该企业”指昆山市张浦彩印厂俱进路分厂。</p>
-</section>
-<section class="card question"><h2>请你判断</h2>
-<p id="question">这里记载的8次检查，你认为应归到哪个公共部门主体名下？请按你的理解写主体；若原文不足以确定机构归属，可以直接回答归属待核。</p>
-<p class="reply">看完后回到这段聊天，直接回复你的判断即可。</p>
-<p class="meta">可以暂停或要求补充上下文。若没有计时，直接回答也可以。</p>
-</section>
-<details><summary>查看出处与定位</summary>
-<p class="meta"><a href="http://www.ks.gov.cn/kss/sgdc/202306/d50ea85d82464a02938378f3f39ae348.shtml" target="_blank" rel="noopener noreferrer">政府网站原始报告</a>（会显示整篇报告，含后续处理结果；本题初答不需要先打开。）</p>
-<p class="meta">证据 ST01-E01；原文字符区间 [4548,4698)。<br>源文件 SHA256：0324770b096ecdd83e0d9fc92c47bead6b644f09d9ad419f76077fa83197c16b</p>
-</details>
-</main></body></html>
+</style></head><body><main>
+<div class="eyebrow">单人编码试编 · ST01 · F17</div><h1>检查对象与事故对象的关系</h1>
+<p>主体、留痕事实和责任结果沿用抽取输入。本题只编码对象指向，不再判断检查应归谁。</p>
+<section class="card"><h2>给定单元</h2><p>主体：张浦镇网格员（抽取输入原名）</p><p class="meta">报告：昆山市张浦彩印厂俱进路分厂“2·22”一般火灾事故调查报告。责任结果已随单元提供，本题暂不展示。</p></section>
+<section class="card"><h2>日常监管完整段：本题输入</h2><pre data-evidence="C02">该企业未纳入市应急管理局及张浦镇年度检查计划，由张浦镇网格员进行日常检查，日常监管由网格巡查。网格员于2021年至事故发生前共检查8次，共发现安全隐患12条。发现的安全隐患主要集中在车间消防通道堵塞、安全责任制不完善、安全责任书未签订等，安全巡查流于形式，对企业巡查中发现的部分安全隐患督促整改不力。</pre><p class="meta">C02 · 原文字符区间 [4548,4698)</p></section>
+<section class="card"><h2>事故单位身份</h2><pre data-evidence="C03">（一）事故发生单位基本情况
+昆山市张浦彩印厂俱进路分厂是一家昆山市张浦彩印厂分支机构（非法人），成立日期为2015年10月12日，经营范围是包装装潢印刷品印刷，包装用品生产。夏某某是昆山市张浦彩印厂俱进路分厂的主要负责人（也是总公司昆山市张浦彩印厂的法定代表人），分厂总经理为夏某，分厂有完整的管理架构。
+</pre><p class="meta">C03 · 原文字符区间 [1062,1215)</p></section>
+<section class="card"><h2>直接原因段</h2><pre data-evidence="C04">四、事故原因分析和事故性质认定
+（一）直接原因
+锅炉房循环泵房2号循环泵出油口阀门关闭，进油口阀门开启，罗某某在拆除循环泵联轴器后导热油大量泄漏，引发火灾。
+</pre><p class="meta">C04 · 原文字符区间 [3932,4011)</p></section>
+<section class="card question"><h2>请编码：F17对象指向</h2><p id="question">依据检查记载和事故原因，这条留痕的对象指向应如何编码？</p>
+<p><strong>指向涉事对象</strong>：检查指向的具体对象，与报告原因章认定的直接环节对象相同，或可由报告内证据唯一锁定为同一对象。</p>
+<p><strong>指向非涉事对象</strong>：检查指向了具体对象，但与直接环节对象不同。</p>
+<p><strong>对象泛化</strong>：记载本身只有行业、辖区等泛称，或不能锁定具体对象。</p>
+<p>如果是缺少必要上下文而无法判断，可以回答“待核”，并说明需要补读什么。</p><p class="reply">回到聊天回复你的编码即可。没有计时也可直接答。</p></section>
+<p class="meta">旧主体归属题ST01-Q01已撤回，不计编码答案。本题不展示旧编码或机器建议。</p></main></body></html>
