@@ -1,0 +1,2849 @@
+{
+  "task": 137,
+  "package_state": "stopped_after_A_output_limit_quality_not_passed",
+  "reference_comparison": [
+    {
+      "reference_id": "XP-PATH-01",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P04",
+        "fact_ids": [
+          "F02"
+        ],
+        "connection_id": "C23",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。"
+    },
+    {
+      "reference_id": "XP-PATH-02",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P05",
+        "fact_ids": [
+          "F02"
+        ],
+        "connection_id": "C25",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。 联系模式较旧参照改为shared，个人建议行为仍在理由中明确。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。 原答以shared表达机构正式批复；此前参照direct指个人明确提出批复建议。核心人—事实联系找到，角色层级表述不同，不能据本答宣称本人签发。"
+    },
+    {
+      "reference_id": "XP-PATH-03",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P08",
+        "fact_ids": [
+          "F02"
+        ],
+        "connection_id": "C31",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。 联系模式较旧参照改为shared，个人建议行为仍在理由中明确。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。 原答以shared表达机构正式批复；此前参照direct指个人明确提出批复建议。核心人—事实联系找到，角色层级表述不同，不能据本答宣称本人签发。"
+    },
+    {
+      "reference_id": "XP-PATH-04",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P12",
+        "fact_ids": [
+          "F04"
+        ],
+        "connection_id": "C38",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。 已免职与另建议党内警告分别识别，结构化阶段只能表示其中一项。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。 原答stage=executed仅对应已免职，附注仍把党内警告写作建议；存在单字段承载混合阶段的限制，不将建议警告记为执行。"
+    },
+    {
+      "reference_id": "XP-PATH-05",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P03",
+        "fact_ids": [
+          "F25"
+        ],
+        "connection_id": "C22",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。"
+    },
+    {
+      "reference_id": "XP-PATH-06",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P13",
+        "fact_ids": [
+          "F25"
+        ],
+        "connection_id": "C39",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。"
+    },
+    {
+      "reference_id": "XP-PATH-07",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P15",
+        "fact_ids": [
+          "F24"
+        ],
+        "connection_id": "C41",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。"
+    },
+    {
+      "reference_id": "XP-PATH-08",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F45"
+        ],
+        "connection_id": "C50",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。"
+    },
+    {
+      "reference_id": "XP-PATH-09",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P15",
+        "fact_ids": [
+          "F46"
+        ],
+        "connection_id": "C42",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "保持作者原裁决的具体归属及本人结果，不扩大为本人制作或实际完成。"
+    },
+    {
+      "reference_id": "NEW-01",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P14",
+        "fact_ids": [
+          "F29"
+        ],
+        "connection_id": "C40",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "只共享交通安全隐患排查方案背景，不称亲自制订或执行。"
+    },
+    {
+      "reference_id": "NEW-02",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P14",
+        "fact_ids": [
+          "F31"
+        ],
+        "connection_id": "C63",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "只共享方案中机动车/交通排查部分，不把林场等全部事项归个人。"
+    },
+    {
+      "reference_id": "NEW-03",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P16",
+        "fact_ids": [
+          "F17"
+        ],
+        "connection_id": "C43",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "行动6月底已结束，保留跟进总结责任背景；精确任职起点未载，不称事故日仍在开展。"
+    },
+    {
+      "reference_id": "NEW-04",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P16",
+        "fact_ids": [
+          "F18"
+        ],
+        "connection_id": "C44",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "百日行动6月上旬已结束，保留具体工作跟进背景，不称事故日仍在执行。"
+    },
+    {
+      "reference_id": "NEW-05",
+      "A": {
+        "status": "missing",
+        "subject_id": "P16",
+        "fact_ids": [
+          "F20"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "方案业务背景不等于本次顺道搭乘已构成非法载客，也不证明个人实施。"
+    },
+    {
+      "reference_id": "NEW-06",
+      "A": {
+        "status": "missing",
+        "subject_id": "P16",
+        "fact_ids": [
+          "F21"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "文书与分工有关；不能由计划期推出实际检查次数、落实或成效。"
+    },
+    {
+      "reference_id": "NEW-07",
+      "A": {
+        "status": "missing",
+        "subject_id": "P16",
+        "fact_ids": [
+          "F22"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "共享道路安全职责背景，不升级为亲自制订、签发或带队。"
+    },
+    {
+      "reference_id": "NEW-08",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P19",
+        "fact_ids": [
+          "F45"
+        ],
+        "connection_id": "C48",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "共享存量台账的持续管理背景，不称2016年在任或本人初采，不补实际月更。"
+    },
+    {
+      "reference_id": "NEW-09",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P20",
+        "fact_ids": [
+          "F45"
+        ],
+        "connection_id": "C49",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "后续两实职责支持存量台账共享，不把前任阶段的初采归本人，不虚构更新。"
+    },
+    {
+      "reference_id": "NEW-10",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F34"
+        ],
+        "connection_id": "C52",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "只取道路交通职责部分；短期行动已结束，不称事故时仍开展。"
+    },
+    {
+      "reference_id": "NEW-11",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F35"
+        ],
+        "connection_id": "C68",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "共享本镇具体方案，不把上级市通知制发者变成本人，不称本人起草。"
+    },
+    {
+      "reference_id": "NEW-12",
+      "A": {
+        "status": "missing",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F37"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "安全责任书有据、非纯人事分工；不认定本人签字，不按村数扩单元。"
+    },
+    {
+      "reference_id": "NEW-13",
+      "A": {
+        "status": "missing",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F38"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "交通职责背景共享；肇事车不是三轮车，不声称方案直接覆盖该车或检查过该车。"
+    },
+    {
+      "reference_id": "NEW-14",
+      "A": {
+        "status": "missing",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F39"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "只取道路交通事项；不把其他行业或安排要求当本人已实施检查。"
+    },
+    {
+      "reference_id": "NEW-15",
+      "A": {
+        "status": "missing",
+        "subject_id": "P21",
+        "fact_ids": [
+          "F40"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "只取交通安全目标责任书，不自动加入同句一般绩效文书，不推定本人签名。"
+    },
+    {
+      "reference_id": "NEW-16",
+      "A": {
+        "status": "missing",
+        "subject_id": "P20",
+        "fact_ids": [
+          "F35"
+        ],
+        "connection_id": null,
+        "note": "原答已识别这份材料为正向事实，但未提交与该人的连接及单元。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "接任后共享持续交通组织/制度背景，不称2016年已任职或本人制订。"
+    },
+    {
+      "reference_id": "NEW-17",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P20",
+        "fact_ids": [
+          "F43"
+        ],
+        "connection_id": "C70",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "城区交通专项不直接等于林区现场监管；一周专项已结束，不称事故日仍开展。"
+    },
+    {
+      "reference_id": "NEW-18",
+      "A": {
+        "status": "retrieved",
+        "subject_id": "P20",
+        "fact_ids": [
+          "F44"
+        ],
+        "connection_id": "C51",
+        "note": "主体、具体材料、事故前背景及本人处理证据相接。"
+      },
+      "B": {
+        "status": "not_run",
+        "note": "A输出超过预定每答字符上限，按有限成本协议停止新增委派。"
+      },
+      "coordinator_note": "只共享通知的道路交通事项，不把材料存在当本人落实、实际检查次数或有效。"
+    }
+  ],
+  "semantic_issues": [
+    {
+      "title": "8条漏项：材料已找到，个人连接和单元没有列出",
+      "finding": "项晓雁3条（非客运非法载客、打非治违、预防重特大方案）；舒杰4条（2016交通责任书、三轮车整治、岁末年初方案、2017交通责任书）；田向阳1条（持续十条刚性措施方案）。相关材料在A中均已识别为positive，但没有对应连接/单元。",
+      "handling": "记为8条已支持正例未找回；原答自述受篇幅影响未穷举。可定位到联系组装及输出分配阶段，不能据此认定所有潜在漏项都只有这8条。",
+      "refs": [
+        {
+          "start": 67,
+          "end": 72
+        },
+        {
+          "start": 104,
+          "end": 111
+        },
+        {
+          "start": 184,
+          "end": 195
+        }
+      ]
+    },
+    {
+      "title": "普通与临时批复：7条额外个人联系继续待核",
+      "finding": "A把临时版本分别连接到刘生善、刘东旭、王立起、向明建、熊辉、周智勇、贺德健，并全部标supported/candidate。原作者XP-A02已经同意临时版个人具体联系待核。",
+      "handling": "材料存在与两版本分列均正确；7条临时版个人联系降为待核，不复制普通版个人参与，也不恢复个人制作/签名门槛。无需作者重审旧裁决。",
+      "refs": [
+        {
+          "start": 77,
+          "end": 80
+        },
+        {
+          "start": 133,
+          "end": 134
+        },
+        {
+          "start": 160,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "title": "季度例会：不能升级为确切频次正例",
+      "finding": "A把“每季度召开了”列为F33正向actual_frequency，并提交低庄镇机构候选C08。作者XP-A08已经同意：保留实际开会记载，但无纪要和确切计次数，不作已确认六类载体正例。",
+      "handling": "本轮按既有作者裁决排除C08的正向载体主张；不是需要再询问作者的新定义问题。",
+      "refs": [
+        {
+          "start": 101,
+          "end": 104
+        }
+      ]
+    },
+    {
+      "title": "批复联系模式与混合处理阶段：需保留解释",
+      "finding": "刘东旭、熊辉普通批复联系被A写为shared，理由仍明确个人提出本案批复建议；旧参照direct表达这项个人参与。冯本钦字段stage=executed仅对应已免职，附注另列建议党内警告。",
+      "handling": "核心人—材料联系及本人结果证据已找回；分别记录角色表述差异和混合阶段，不能把shared说成本人签发，不能把建议警告算已执行。原参照不改。",
+      "refs": [
+        {
+          "start": 162,
+          "end": 163
+        },
+        {
+          "start": 168,
+          "end": 169
+        },
+        {
+          "start": 176,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "title": "额外候选单独核，不用27条参照封顶",
+      "finding": "A提出22条参照之外的公共自然人候选：其中15条经本轮主会话按源文具体职责和材料归属核有支持；7条临时版个人联系仍待核。",
+      "handling": "逐条处理记录随本结果保留，不写回原40冻结参照，不当作者追加批准或全文金标。额外候选不能抵消8条参照漏项。",
+      "refs": [
+        {
+          "start": 67,
+          "end": 68
+        },
+        {
+          "start": 92,
+          "end": 100
+        },
+        {
+          "start": 112,
+          "end": 114
+        },
+        {
+          "start": 153,
+          "end": 179
+        },
+        {
+          "start": 184,
+          "end": 193
+        }
+      ]
+    },
+    {
+      "title": "为什么没有运行第二次",
+      "finding": "首答76070字符，超过预定每答60000字符请求上限。有限成本协议要求达到工作或输出上限交付已有结果、不自动续委派。本轮实际1次抽取、0重试，第二次未派发。",
+      "handling": "保留超限首答与失败，未截短重写、改提示、追加额度或用B补跑。两答语义重复性没有测成，不能报告两次一致或稳定。",
+      "refs": []
+    },
+    {
+      "title": "额外候选 · 黄德荣 · 深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "finding": "原答C20：主会话回源支持具体背景候选。",
+      "handling": "同镇内设工作人员有本案林业开发项目监管责任，可共享镇向本企业的停工通知背景；不称本人签发。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 153,
+          "end": 154
+        },
+        {
+          "start": 177,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 杨召发 · 深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "finding": "原答C21：主会话回源支持具体背景候选。",
+      "handling": "原文明确镇聘任护林员并有本案占林监管责任，共享镇停工通知；不称本人制作。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 177,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 刘生善 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C24：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 160,
+          "end": 161
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 刘东旭 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C26：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 162,
+          "end": 163
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 王立起 · 县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "finding": "原答C27：主会话回源支持具体背景候选。",
+      "handling": "同林业局、明示本案开发项目执法监管责任，普通批复可作本案机构具体背景，不称已执法或本人审批。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 133,
+          "end": 134
+        },
+        {
+          "start": 164,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 王立起 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C28：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 164,
+          "end": 165
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 向明建 · 县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "finding": "原答C29：主会话回源支持具体背景候选。",
+      "handling": "同林业局且原文明指本案公司项目监管责任，普通批复作具体背景；不凭片区名推断不同对象。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 166,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 向明建 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C30：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 166,
+          "end": 167
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 熊辉 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C32：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 168,
+          "end": 169
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 周智勇 · 县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "finding": "原答C33：主会话回源支持具体背景候选。",
+      "handling": "局综合执法大队负责人对本案非法占林有具体职责，父局普通批复作项目背景，不声称本人办理。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 170,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 周智勇 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C34：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 170,
+          "end": 171
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 贺德健 · 县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "finding": "原答C35：主会话回源支持具体背景候选。",
+      "handling": "局执法中队负责人有明示林地监督及本案项目监管责任，父局普通批复作背景。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 172,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 贺德健 · 县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "finding": "原答C36：原答确认为候选，主会话保留待核。",
+      "handling": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 172,
+          "end": 173
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 向益春 · 县交警大队2017年2月14日春夏道路交通严打整治方案",
+      "finding": "原答C45：主会话回源支持具体背景候选。",
+      "handling": "父大队全县涉牌整治方案与三中队长明示辖区套牌监管、两实职责具体相接，不主张本人制定。",
+      "refs": [
+        {
+          "start": 67,
+          "end": 67
+        },
+        {
+          "start": 184,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 向益春 · 县交警大队2017年3月1日百日会战行动方案",
+      "finding": "原答C46：主会话回源支持具体背景候选。",
+      "handling": "百日会战明示城区和农村涉牌违法事项，与三中队具体套牌监管责任相接；已结束任务只作相关背景。",
+      "refs": [
+        {
+          "start": 68,
+          "end": 68
+        },
+        {
+          "start": 184,
+          "end": 187
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 覃通连 · 深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "finding": "原答C61：主会话回源支持具体背景候选。",
+      "handling": "镇经济发展办公室主任对本案项目负监管责任，镇停工通知可作同机关/内设具体背景。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 157,
+          "end": 158
+        },
+        {
+          "start": 177,
+          "end": 177
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 邹修树 · 深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "finding": "原答C62：主会话回源支持具体背景候选。",
+      "handling": "镇副镇长分管农林并有本案项目责任，镇对本企业的停工通知为具体背景，不认本人签发。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 177,
+          "end": 177
+        },
+        {
+          "start": 178,
+          "end": 179
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 邹修树 · 深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "finding": "原答C64：主会话回源支持具体背景候选。",
+      "handling": "镇村排查方案明示林场，副镇长有农林分工与本案林业项目职责，只共享林业内容。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 178,
+          "end": 179
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 黄德荣 · 深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "finding": "原答C65：主会话回源支持具体背景候选。",
+      "handling": "同镇内设工作人员有明确本案林业项目监管责任，与镇方案林场排查事项相接，不称实际检查。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 153,
+          "end": 154
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 杨召发 · 深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "finding": "原答C66：主会话回源支持具体背景候选。",
+      "handling": "镇护林员有本案占林监管责任，与镇方案林场事项相接；聘任背景按原文，不另推正式编制。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 155,
+          "end": 156
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 覃通连 · 深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "finding": "原答C67：主会话回源支持具体背景候选。",
+      "handling": "镇内设负责人有本案林业开发监管职责，与镇方案林场事项相接。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 157,
+          "end": 158
+        }
+      ]
+    },
+    {
+      "title": "额外候选 · 田向阳 · 低庄镇2017年4月1日进一步安全大检查通知",
+      "finding": "原答C69：主会话回源支持具体背景候选。",
+      "handling": "任内镇安全大检查通知与明确交通分工相接，只保留交通职责背景，不自动扩为其他行业。",
+      "refs": [
+        {
+          "start": 112,
+          "end": 112
+        },
+        {
+          "start": 192,
+          "end": 193
+        }
+      ]
+    }
+  ],
+  "summary_md": "本包结论：尚未通过稳定抽取验证；已经把一个主要卡点定位到“材料已识别，个人联系没有完整列出”。\n\n第一份独立首答读到了全部211行，0工具返回截断，结构和引用校验通过。此前作者支持的9条核心个人—材料联系全部找回；上轮模型复核支持的18条找回10条、漏8条。这8条的材料在答案中都已被识别为正向事实。\n\n首答还把7条临时批复个人联系过早确认为候选，并把一般季度例会写成确切频次正例；主会话已按既有作者裁决保留待核或排除，无需你重新裁决旧24项。核心联系模式及混合处理阶段的表述差异另行保存。\n\n首答76070字符，超出预定60000字符请求上限，还自述省略了部分联系与单元。按有限成本协议停止新增调用，第二份未派发，0重试；本包因此没有完成两答重复性比较。\n\n这说明已有源文和规则能支持材料识别及不少个人单元构造；目前完整连接和边界保持仍不稳定。不能据一次未通过断言不可行，也不能据9条找回宣布已能抽全。建议下一步先调整输出分配，优先完整列出人—材料联系，减少无关目录和重复字段占用；研究定义保持，先做可审阅的方法修订，不自动再开实验。\n\n原40条工作参照及原24项作者裁决保持原样。额外22条个人候选另有逐项核查记录，其中15条获本轮主会话回源支持、7条继续待核；不是作者追加批准。人工找漏、纠错和终审总耗时尚未测，尚不能宣称省力。",
+  "attempts_dispatched": 1,
+  "B_dispatched": false,
+  "retries": 0,
+  "A_original_claim_counts": {
+    "subjects": 107,
+    "facts": 60,
+    "connections": 70,
+    "units": 68,
+    "candidate_units": 60,
+    "candidate_person_units": 41,
+    "candidate_agency_units": 19
+  },
+  "A_extra_person_candidates": [
+    {
+      "connection_id": "C20",
+      "subject_id": "P01",
+      "subject": "黄德荣",
+      "fact_id": "F04",
+      "material": "深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "同镇内设工作人员有本案林业开发项目监管责任，可共享镇向本企业的停工通知背景；不称本人签发。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 153,
+          "end": 154
+        },
+        {
+          "start": 177,
+          "end": 177
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C21",
+      "subject_id": "P02",
+      "subject": "杨召发",
+      "fact_id": "F04",
+      "material": "深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "原文明确镇聘任护林员并有本案占林监管责任，共享镇停工通知；不称本人制作。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 155,
+          "end": 156
+        },
+        {
+          "start": 177,
+          "end": 177
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C24",
+      "subject_id": "P04",
+      "subject": "刘生善",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 160,
+          "end": 161
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C26",
+      "subject_id": "P05",
+      "subject": "刘东旭",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 162,
+          "end": 163
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C27",
+      "subject_id": "P06",
+      "subject": "王立起",
+      "fact_id": "F02",
+      "material": "县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "同林业局、明示本案开发项目执法监管责任，普通批复可作本案机构具体背景，不称已执法或本人审批。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 133,
+          "end": 134
+        },
+        {
+          "start": 164,
+          "end": 165
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C28",
+      "subject_id": "P06",
+      "subject": "王立起",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 164,
+          "end": 165
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C29",
+      "subject_id": "P07",
+      "subject": "向明建",
+      "fact_id": "F02",
+      "material": "县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "同林业局且原文明指本案公司项目监管责任，普通批复作具体背景；不凭片区名推断不同对象。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 166,
+          "end": 167
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C30",
+      "subject_id": "P07",
+      "subject": "向明建",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 166,
+          "end": 167
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C32",
+      "subject_id": "P08",
+      "subject": "熊辉",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 168,
+          "end": 169
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C33",
+      "subject_id": "P09",
+      "subject": "周智勇",
+      "fact_id": "F02",
+      "material": "县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "局综合执法大队负责人对本案非法占林有具体职责，父局普通批复作项目背景，不声称本人办理。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 170,
+          "end": 171
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C34",
+      "subject_id": "P09",
+      "subject": "周智勇",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 170,
+          "end": 171
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C35",
+      "subject_id": "P10",
+      "subject": "贺德健",
+      "fact_id": "F02",
+      "material": "县林业局2016年12月5日同意占用0.488公顷林地的正式批复",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "局执法中队负责人有明示林地监督及本案项目监管责任，父局普通批复作背景。",
+      "refs": [
+        {
+          "start": 22,
+          "end": 22
+        },
+        {
+          "start": 77,
+          "end": 79
+        },
+        {
+          "start": 132,
+          "end": 134
+        },
+        {
+          "start": 172,
+          "end": 173
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C36",
+      "subject_id": "P10",
+      "subject": "贺德健",
+      "fact_id": "F03",
+      "material": "县林业局同日另一份同号临时占用林地批复，有效期两年",
+      "model_claim": "candidate",
+      "coordinator_handling": "pending_version_link",
+      "note": "作者XP-A02已接受临时版个人具体版本联系待核；本答仅据同局/同项目审批背景给supported，没有新增版本适用证据，保留待核，不直接形成已确认单元。此限制不要求本人亲制/签名。",
+      "refs": [
+        {
+          "start": 80,
+          "end": 80
+        },
+        {
+          "start": 134,
+          "end": 134
+        },
+        {
+          "start": 172,
+          "end": 173
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C45",
+      "subject_id": "P17",
+      "subject": "向益春",
+      "fact_id": "F17",
+      "material": "县交警大队2017年2月14日春夏道路交通严打整治方案",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "父大队全县涉牌整治方案与三中队长明示辖区套牌监管、两实职责具体相接，不主张本人制定。",
+      "refs": [
+        {
+          "start": 67,
+          "end": 67
+        },
+        {
+          "start": 184,
+          "end": 187
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C46",
+      "subject_id": "P17",
+      "subject": "向益春",
+      "fact_id": "F18",
+      "material": "县交警大队2017年3月1日百日会战行动方案",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "百日会战明示城区和农村涉牌违法事项，与三中队具体套牌监管责任相接；已结束任务只作相关背景。",
+      "refs": [
+        {
+          "start": 68,
+          "end": 68
+        },
+        {
+          "start": 184,
+          "end": 187
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C61",
+      "subject_id": "P03",
+      "subject": "覃通连",
+      "fact_id": "F04",
+      "material": "深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "镇经济发展办公室主任对本案项目负监管责任，镇停工通知可作同机关/内设具体背景。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 157,
+          "end": 158
+        },
+        {
+          "start": 177,
+          "end": 177
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C62",
+      "subject_id": "P13",
+      "subject": "邹修树",
+      "fact_id": "F04",
+      "material": "深子湖镇政府2017年1月4日向涉事企业下达停工通知",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "镇副镇长分管农林并有本案项目责任，镇对本企业的停工通知为具体背景，不认本人签发。",
+      "refs": [
+        {
+          "start": 24,
+          "end": 24
+        },
+        {
+          "start": 100,
+          "end": 100
+        },
+        {
+          "start": 136,
+          "end": 136
+        },
+        {
+          "start": 177,
+          "end": 177
+        },
+        {
+          "start": 178,
+          "end": 179
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C64",
+      "subject_id": "P13",
+      "subject": "邹修树",
+      "fact_id": "F31",
+      "material": "深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "镇村排查方案明示林场，副镇长有农林分工与本案林业项目职责，只共享林业内容。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 178,
+          "end": 179
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C65",
+      "subject_id": "P01",
+      "subject": "黄德荣",
+      "fact_id": "F31",
+      "material": "深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "同镇内设工作人员有明确本案林业项目监管责任，与镇方案林场排查事项相接，不称实际检查。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 153,
+          "end": 154
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C66",
+      "subject_id": "P02",
+      "subject": "杨召发",
+      "fact_id": "F31",
+      "material": "深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "镇护林员有本案占林监管责任，与镇方案林场事项相接；聘任背景按原文，不另推正式编制。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 155,
+          "end": 156
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C67",
+      "subject_id": "P03",
+      "subject": "覃通连",
+      "fact_id": "F31",
+      "material": "深子湖镇2017年3月2日镇村安全隐患排查方案，含车辆与林场",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "镇内设负责人有本案林业开发监管职责，与镇方案林场事项相接。",
+      "refs": [
+        {
+          "start": 92,
+          "end": 92
+        },
+        {
+          "start": 157,
+          "end": 158
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    },
+    {
+      "connection_id": "C69",
+      "subject_id": "P20",
+      "subject": "田向阳",
+      "fact_id": "F42",
+      "material": "低庄镇2017年4月1日进一步安全大检查通知",
+      "model_claim": "candidate",
+      "coordinator_handling": "supported_by_coordinator",
+      "note": "任内镇安全大检查通知与明确交通分工相接，只保留交通职责背景，不自动扩为其他行业。",
+      "refs": [
+        {
+          "start": 112,
+          "end": 112
+        },
+        {
+          "start": 192,
+          "end": 193
+        }
+      ],
+      "provenance": "本轮额外模型候选+主会话回源，不是作者追加裁决；不写回冻结40参照"
+    }
+  ],
+  "A_stop_gate": {
+    "A_mechanical_pass": true,
+    "all211_lines_delivered_exact": true,
+    "truncated_returns": 0,
+    "output_characters": 76070,
+    "requested_output_limit": 60000,
+    "output_over_limit": true,
+    "B_dispatch_allowed": false,
+    "B_dispatched": false,
+    "reason": "Output limit reached/exceeded: deliver existing result, do not extend or repurpose second allowance. Source/structure pass does not satisfy extraction quality.",
+    "source": "00_项目管理/长程任务成本协议.md 开工与停止；frozen_plan output scope",
+    "not_all_original_positives_lost": true
+  },
+  "two_answer_repeatability": "not_measured_B_not_run",
+  "overall_fixed_package_pass": false,
+  "new_author_questions": 0,
+  "limitations_text": "同一历史已曝光开发报告，不是独立留出或迁移；本报告属非生产经营性，论文总体纳入未定；外部PDF/附件完整性未核，不确认缺句者未提及或免责。27条只是两层已支持正例子集，非全文人类金标。日志完整送达和机械校验不证明认真阅读或语义正确。原答60个candidate是模型主张，不是60个已核合格单元；额外15条为本轮协调侧判断，原40参照不变。两答重复性未测，人工省力未测。",
+  "computed_reference_counts": {
+    "A": {
+      "prior_author_adjudication": {
+        "retrieved": 9
+      },
+      "coordinator_plus_independent_model": {
+        "retrieved": 10,
+        "missing": 8
+      }
+    },
+    "B": {
+      "prior_author_adjudication": {
+        "not_run": 9
+      },
+      "coordinator_plus_independent_model": {
+        "not_run": 18
+      }
+    }
+  },
+  "source_quote_groups": [
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 77,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 160,
+      "end": 161,
+      "text": "7、刘生善，男，溆浦县林业局党组书记、局长。\n疏于管理，未督促分管领导及相关部门落实监管职责，督促落实打非治违不力，对溆浦县林业局在浦县多韵农生态科技发展有限公司占用林地修建林区公路批复把关不严，行政审批工作管理混乱，对事故发生负有领导责任，建议给予诫勉谈话。\n",
+      "href": "review-source-XP-0710.html#L160"
+    },
+    {
+      "start": 161,
+      "end": 161,
+      "text": "疏于管理，未督促分管领导及相关部门落实监管职责，督促落实打非治违不力，对溆浦县林业局在浦县多韵农生态科技发展有限公司占用林地修建林区公路批复把关不严，行政审批工作管理混乱，对事故发生负有领导责任，建议给予诫勉谈话。\n",
+      "href": "review-source-XP-0710.html#L161"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 77,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 162,
+      "end": 163,
+      "text": "8、刘东旭，男，溆浦县林业局党组成员、副局长，分管行政审批工作。\n在收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，对林地办提出的建议没有按规定进行审批，其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，依然建议作出《关于同意占用林地的批复》，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L162"
+    },
+    {
+      "start": 163,
+      "end": 163,
+      "text": "在收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，对林地办提出的建议没有按规定进行审批，其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，依然建议作出《关于同意占用林地的批复》，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L163"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 77,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 168,
+      "end": 169,
+      "text": "11、熊辉，男，溆浦县林业局调纠办、林地办主任，负责林地审批工作。\n收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，在明知其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，超越职权范围建议作出《关于同意占用林地的批复》，批准同意占用林地0.488公顷，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L168"
+    },
+    {
+      "start": 169,
+      "end": 169,
+      "text": "收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，在明知其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，超越职权范围建议作出《关于同意占用林地的批复》，批准同意占用林地0.488公顷，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L169"
+    },
+    {
+      "start": 24,
+      "end": 24,
+      "text": "2017年1月4日收到了深子湖镇政府下达的停工通知，停工一个多月以后未经任何部门批准又继续进行修路施工；\n",
+      "href": "review-source-XP-0710.html#L24"
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "text": "2017年1月4日深子湖镇人民政府向溆浦县多韵农生态科技发展有限公司下达了停工通知。\n",
+      "href": "review-source-XP-0710.html#L100"
+    },
+    {
+      "start": 136,
+      "end": 136,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司监管不到位。该公司自2012年2月16日登记成立起便在深子湖镇开展生产经营活动，至今已长达5年，尤其是2016年至2017年没有形成对该公司的有效监管，对该公司的实际情况不清楚，没有对该公司进行有效巡查。2017年1月4日对该公司下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司的违法行为进行查处。\n",
+      "href": "review-source-XP-0710.html#L136"
+    },
+    {
+      "start": 176,
+      "end": 177,
+      "text": "15、冯本钦，男，溆浦县深子湖镇原副书记、镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L176"
+    },
+    {
+      "start": 177,
+      "end": 177,
+      "text": "落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L177"
+    },
+    {
+      "start": 75,
+      "end": 75,
+      "text": "2016年10月16日溆浦县多韵农生态科技发展有限公司向县林业局提出关于占用林地修建林区公路的请示，2016年10月26日溆浦县退耕还林工作领导办公签署了：“此设计路线未涉及退耕还林”意见，2016年10月18日溆浦县深子湖镇黄溪湾村村民委员会签署了：“情况属实”意见，2016年10月19日深子湖镇相关负责人覃通连、邹修树签署了：“情况属实”意见，并向县林业局提供了修路所涉村民林地占用补偿协议、土地长期租赁协议和授权武金文、朱友汉、朱月林三人全权负责签订补偿协议的委托书。\n",
+      "href": "review-source-XP-0710.html#L75"
+    },
+    {
+      "start": 157,
+      "end": 158,
+      "text": "6、覃通连，男，溆浦县深子湖镇经济发展办公室主任。\n对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，明知其所占用的林地是用于修建林区专用公路，明知溆浦县林业局没有审批权的情况下，仍然签署意见，工作失职，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L157"
+    },
+    {
+      "start": 158,
+      "end": 158,
+      "text": "对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，明知其所占用的林地是用于修建林区专用公路，明知溆浦县林业局没有审批权的情况下，仍然签署意见，工作失职，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L158"
+    },
+    {
+      "start": 178,
+      "end": 179,
+      "text": "16、邹修树，男，溆浦县深子湖镇副镇长，分管农林工作。\n对辖区内林业开发项目建设监管不力，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，没有对镇经济发展办公室提出地建议进行严格把关并签署意见，对事故发生负有主要领导责任，因涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L178"
+    },
+    {
+      "start": 75,
+      "end": 75,
+      "text": "2016年10月16日溆浦县多韵农生态科技发展有限公司向县林业局提出关于占用林地修建林区公路的请示，2016年10月26日溆浦县退耕还林工作领导办公签署了：“此设计路线未涉及退耕还林”意见，2016年10月18日溆浦县深子湖镇黄溪湾村村民委员会签署了：“情况属实”意见，2016年10月19日深子湖镇相关负责人覃通连、邹修树签署了：“情况属实”意见，并向县林业局提供了修路所涉村民林地占用补偿协议、土地长期租赁协议和授权武金文、朱友汉、朱月林三人全权负责签订补偿协议的委托书。\n",
+      "href": "review-source-XP-0710.html#L75"
+    },
+    {
+      "start": 157,
+      "end": 158,
+      "text": "6、覃通连，男，溆浦县深子湖镇经济发展办公室主任。\n对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，明知其所占用的林地是用于修建林区专用公路，明知溆浦县林业局没有审批权的情况下，仍然签署意见，工作失职，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L157"
+    },
+    {
+      "start": 178,
+      "end": 179,
+      "text": "16、邹修树，男，溆浦县深子湖镇副镇长，分管农林工作。\n对辖区内林业开发项目建设监管不力，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，没有对镇经济发展办公室提出地建议进行严格把关并签署意见，对事故发生负有主要领导责任，因涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L178"
+    },
+    {
+      "start": 179,
+      "end": 179,
+      "text": "对辖区内林业开发项目建设监管不力，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，没有对镇经济发展办公室提出地建议进行严格把关并签署意见，对事故发生负有主要领导责任，因涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L179"
+    },
+    {
+      "start": 75,
+      "end": 75,
+      "text": "2016年10月16日溆浦县多韵农生态科技发展有限公司向县林业局提出关于占用林地修建林区公路的请示，2016年10月26日溆浦县退耕还林工作领导办公签署了：“此设计路线未涉及退耕还林”意见，2016年10月18日溆浦县深子湖镇黄溪湾村村民委员会签署了：“情况属实”意见，2016年10月19日深子湖镇相关负责人覃通连、邹修树签署了：“情况属实”意见，并向县林业局提供了修路所涉村民林地占用补偿协议、土地长期租赁协议和授权武金文、朱友汉、朱月林三人全权负责签订补偿协议的委托书。\n",
+      "href": "review-source-XP-0710.html#L75"
+    },
+    {
+      "start": 182,
+      "end": 183,
+      "text": "18、朱怡会，男，溆浦县深子镇黄溪湾村临时党支部副书记、村委会副主任。\n对溆浦县多韵农生态科技发展有限公司违规占用林地、违规施工建设林区公路等问题没有及时报告相关主管部门，事故隐患排查不力；未向临时党支部书记覃功平汇报且未召开村民党员代表会议，伪造会议记录，在溆浦县多韵农生态科技发展有限公司占用林地的请示上私自签署“情况属实”意见并加盖村委会公章，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L182"
+    },
+    {
+      "start": 183,
+      "end": 183,
+      "text": "对溆浦县多韵农生态科技发展有限公司违规占用林地、违规施工建设林区公路等问题没有及时报告相关主管部门，事故隐患排查不力；未向临时党支部书记覃功平汇报且未召开村民党员代表会议，伪造会议记录，在溆浦县多韵农生态科技发展有限公司占用林地的请示上私自签署“情况属实”意见并加盖村委会公章，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L183"
+    },
+    {
+      "start": 115,
+      "end": 115,
+      "text": "低庄镇政府对“两实”（农村实有车辆、实有驾驶人）信息采集进行了部署安排，在2016年9月进行了一次收集，没有按规定进行一月一更新，“两实”信息采集台账中没有本次事故肇事车辆登记信息。\n",
+      "href": "review-source-XP-0710.html#L115"
+    },
+    {
+      "start": 138,
+      "end": 138,
+      "text": "低庄镇“两实”信息底数不清。2016年8月1日中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），要求坚决落实“两实”信息采集，即农村实有车辆、实有驾驶人基础信息采集。低庄镇人民政府开展了“两实”信息工作，但没有按照文件的要求落实到位，没有及时更新和上报，事故车辆原车主谢墩丁自2012年起就租住在低庄镇粮站内，低庄镇粮站地处荆湖村和低庄镇村交界，事故车辆自2015年12月26日起长期停放在粮站内，至事故发生前已长达1年多时间，荆湖村和低庄镇村均没有将该车信息进行“两实”登记，并上报上级政府及相关部门。\n",
+      "href": "review-source-XP-0710.html#L138"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 182,
+      "end": 183,
+      "text": "18、朱怡会，男，溆浦县深子镇黄溪湾村临时党支部副书记、村委会副主任。\n对溆浦县多韵农生态科技发展有限公司违规占用林地、违规施工建设林区公路等问题没有及时报告相关主管部门，事故隐患排查不力；未向临时党支部书记覃功平汇报且未召开村民党员代表会议，伪造会议记录，在溆浦县多韵农生态科技发展有限公司占用林地的请示上私自签署“情况属实”意见并加盖村委会公章，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L182"
+    },
+    {
+      "start": 183,
+      "end": 183,
+      "text": "对溆浦县多韵农生态科技发展有限公司违规占用林地、违规施工建设林区公路等问题没有及时报告相关主管部门，事故隐患排查不力；未向临时党支部书记覃功平汇报且未召开村民党员代表会议，伪造会议记录，在溆浦县多韵农生态科技发展有限公司占用林地的请示上私自签署“情况属实”意见并加盖村委会公章，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L183"
+    },
+    {
+      "start": 86,
+      "end": 86,
+      "text": "2016年7月22日深子湖镇人民政府制定了《深子湖镇交通安全隐患排查和治理工作方案》。\n",
+      "href": "review-source-XP-0710.html#L86"
+    },
+    {
+      "start": 180,
+      "end": 180,
+      "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n",
+      "href": "review-source-XP-0710.html#L180"
+    },
+    {
+      "start": 180,
+      "end": 181,
+      "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L180"
+    },
+    {
+      "start": 181,
+      "end": 181,
+      "text": "2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L181"
+    },
+    {
+      "start": 92,
+      "end": 92,
+      "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+      "href": "review-source-XP-0710.html#L92"
+    },
+    {
+      "start": 180,
+      "end": 180,
+      "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n",
+      "href": "review-source-XP-0710.html#L180"
+    },
+    {
+      "start": 180,
+      "end": 181,
+      "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L180"
+    },
+    {
+      "start": 181,
+      "end": 181,
+      "text": "2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L181"
+    },
+    {
+      "start": 67,
+      "end": 67,
+      "text": "2017年2月14日溆浦县公安局交通警察大队制定了《县交警大队2017年春夏道路交通严打整治专项行动工作方案》，决定从即日起至2017年6月30日在全县范围内开展一次春夏道路交通严打整治专项行动，重点整治无证驾驶、违规驾驶、套牌、故意遮挡和污损号牌、酒驾、毒驾等违法违规行为。\n",
+      "href": "review-source-XP-0710.html#L67"
+    },
+    {
+      "start": 184,
+      "end": 184,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 184,
+      "end": 185,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "text": "疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L185"
+    },
+    {
+      "start": 68,
+      "end": 68,
+      "text": "2017年3月1日制定了《溆浦县交警大队开展集中打击重点交通违法行为“百日会战”行动方案》（溆公交字﹝2017﹞11号），自2月28日至6月7日，在全县范围内开展集中打击重点交通违法行为“百日会战”行动，重点以城区道路和农村道路“两个主战场”，重点查处超员超速、疲劳驾驶、涉牌涉证、酒驾毒驾、违法载人等违法行为。\n",
+      "href": "review-source-XP-0710.html#L68"
+    },
+    {
+      "start": 184,
+      "end": 184,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 184,
+      "end": 185,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "text": "疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L185"
+    },
+    {
+      "start": 70,
+      "end": 70,
+      "text": "2017年4月20日制定了《溆浦交警大队非客运车辆非法载客专项整治工作方案》（溆公交字﹝2017﹞20号），在全县范围内开展为期6个月的非客运车辆非法载客专项整治行动。\n",
+      "href": "review-source-XP-0710.html#L70"
+    },
+    {
+      "start": 184,
+      "end": 184,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 184,
+      "end": 185,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "text": "疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L185"
+    },
+    {
+      "start": 71,
+      "end": 71,
+      "text": "2017年5月27日制定了《溆浦县公安局交通警察大队开展“打非治违”专项行动工作方案》，自5月中旬至12月底，在全县持续开展打非治违”专项行动。\n",
+      "href": "review-source-XP-0710.html#L71"
+    },
+    {
+      "start": 184,
+      "end": 184,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 184,
+      "end": 185,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "text": "疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L185"
+    },
+    {
+      "start": 59,
+      "end": 59,
+      "text": "2、溆浦县公安局交通警察大队履职情况\n",
+      "href": "review-source-XP-0710.html#L59"
+    },
+    {
+      "start": 72,
+      "end": 72,
+      "text": "2017年6月8日制定了《溆浦县预防重特大道路交通事故专项整治行动方案》，自即日起至12月31日，在全县集中开展以“强化共治、清除隐患、严查违法、集中曝光”为主题的预防重特大道路交通事故专项整治行动。\n",
+      "href": "review-source-XP-0710.html#L72"
+    },
+    {
+      "start": 184,
+      "end": 184,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 184,
+      "end": 185,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 185,
+      "end": 185,
+      "text": "疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L185"
+    },
+    {
+      "start": 115,
+      "end": 115,
+      "text": "低庄镇政府对“两实”（农村实有车辆、实有驾驶人）信息采集进行了部署安排，在2016年9月进行了一次收集，没有按规定进行一月一更新，“两实”信息采集台账中没有本次事故肇事车辆登记信息。\n",
+      "href": "review-source-XP-0710.html#L115"
+    },
+    {
+      "start": 138,
+      "end": 138,
+      "text": "低庄镇“两实”信息底数不清。2016年8月1日中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），要求坚决落实“两实”信息采集，即农村实有车辆、实有驾驶人基础信息采集。低庄镇人民政府开展了“两实”信息工作，但没有按照文件的要求落实到位，没有及时更新和上报，事故车辆原车主谢墩丁自2012年起就租住在低庄镇粮站内，低庄镇粮站地处荆湖村和低庄镇村交界，事故车辆自2015年12月26日起长期停放在粮站内，至事故发生前已长达1年多时间，荆湖村和低庄镇村均没有将该车信息进行“两实”登记，并上报上级政府及相关部门。\n",
+      "href": "review-source-XP-0710.html#L138"
+    },
+    {
+      "start": 190,
+      "end": 190,
+      "text": "22、刘兴，男，溆浦县低庄镇镇长。\n",
+      "href": "review-source-XP-0710.html#L190"
+    },
+    {
+      "start": 190,
+      "end": 191,
+      "text": "22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n",
+      "href": "review-source-XP-0710.html#L190"
+    },
+    {
+      "start": 191,
+      "end": 191,
+      "text": "落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n",
+      "href": "review-source-XP-0710.html#L191"
+    },
+    {
+      "start": 115,
+      "end": 115,
+      "text": "低庄镇政府对“两实”（农村实有车辆、实有驾驶人）信息采集进行了部署安排，在2016年9月进行了一次收集，没有按规定进行一月一更新，“两实”信息采集台账中没有本次事故肇事车辆登记信息。\n",
+      "href": "review-source-XP-0710.html#L115"
+    },
+    {
+      "start": 138,
+      "end": 138,
+      "text": "低庄镇“两实”信息底数不清。2016年8月1日中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），要求坚决落实“两实”信息采集，即农村实有车辆、实有驾驶人基础信息采集。低庄镇人民政府开展了“两实”信息工作，但没有按照文件的要求落实到位，没有及时更新和上报，事故车辆原车主谢墩丁自2012年起就租住在低庄镇粮站内，低庄镇粮站地处荆湖村和低庄镇村交界，事故车辆自2015年12月26日起长期停放在粮站内，至事故发生前已长达1年多时间，荆湖村和低庄镇村均没有将该车信息进行“两实”登记，并上报上级政府及相关部门。\n",
+      "href": "review-source-XP-0710.html#L138"
+    },
+    {
+      "start": 192,
+      "end": 192,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 192,
+      "end": 193,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 193,
+      "end": 193,
+      "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L193"
+    },
+    {
+      "start": 103,
+      "end": 103,
+      "text": "其中，2016年6月28日低庄镇人民政府下发了《低庄镇2016年安全生产隐患排查整治行动工作方案》（低政发﹝2016﹞25号），决定在全镇开展为期一个月的安全隐患排查整治行动，重点排查道路交通、矿山、危险化学品、建筑施工、消防、烟花爆竹、火工产品及其他行业领域。\n",
+      "href": "review-source-XP-0710.html#L103"
+    },
+    {
+      "start": 194,
+      "end": 194,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 104,
+      "end": 104,
+      "text": "2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n",
+      "href": "review-source-XP-0710.html#L104"
+    },
+    {
+      "start": 194,
+      "end": 194,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 108,
+      "end": 108,
+      "text": "2016年9月，低庄镇政府与所辖各个村委会签订了《低庄镇“十条刚性措施”加强农村道路交通安全工作目标管理责任书》。\n",
+      "href": "review-source-XP-0710.html#L108"
+    },
+    {
+      "start": 194,
+      "end": 194,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 109,
+      "end": 109,
+      "text": "2016年10月26日下发了《低庄镇开展取缔三轮车非法营运专项整治行动工作实施方案》，坚决取缔辖区内非法营运三轮车。\n",
+      "href": "review-source-XP-0710.html#L109"
+    },
+    {
+      "start": 194,
+      "end": 194,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 110,
+      "end": 110,
+      "text": "2016年11月28日下发了《低庄镇2016年岁末年初安全生产“大排查、大整治、大管控”行动工作方案》，重点整治管控道路交通等十大行业领域，责任到岗到人。\n",
+      "href": "review-source-XP-0710.html#L110"
+    },
+    {
+      "start": 194,
+      "end": 194,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 111,
+      "end": 111,
+      "text": "2017年1月低庄镇政府与所辖各个村委会签订了《低庄镇农村道路交通安全工作目标管理责任书》和《低庄镇2017年度村（居）绩效考核目标管理责任书》。\n",
+      "href": "review-source-XP-0710.html#L111"
+    },
+    {
+      "start": 194,
+      "end": 194,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 194,
+      "end": 195,
+      "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L194"
+    },
+    {
+      "start": 195,
+      "end": 195,
+      "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L195"
+    },
+    {
+      "start": 104,
+      "end": 104,
+      "text": "2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n",
+      "href": "review-source-XP-0710.html#L104"
+    },
+    {
+      "start": 192,
+      "end": 192,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 192,
+      "end": 193,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 193,
+      "end": 193,
+      "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L193"
+    },
+    {
+      "start": 113,
+      "end": 113,
+      "text": "2017年4月6日制定了《低庄镇城区交通、市政秩序集中整治工作实施方案》，自4月10日起开展为期一周的城区交通、市政府秩序集中整治专项行动。\n",
+      "href": "review-source-XP-0710.html#L113"
+    },
+    {
+      "start": 192,
+      "end": 192,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 192,
+      "end": 193,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 193,
+      "end": 193,
+      "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L193"
+    },
+    {
+      "start": 114,
+      "end": 114,
+      "text": "2017年5月29日下发了《低庄镇人民政府关于深入开展安全生产领域“打非治违”专项行动的通知》（低政发﹝2017﹞24号），自5月下旬至12月底，重点整治非煤矿山、道路交通、人员密集场所等十大行业领域。\n",
+      "href": "review-source-XP-0710.html#L114"
+    },
+    {
+      "start": 192,
+      "end": 192,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 192,
+      "end": 193,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L192"
+    },
+    {
+      "start": 193,
+      "end": 193,
+      "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L193"
+    },
+    {
+      "start": 67,
+      "end": 72,
+      "text": "2017年2月14日溆浦县公安局交通警察大队制定了《县交警大队2017年春夏道路交通严打整治专项行动工作方案》，决定从即日起至2017年6月30日在全县范围内开展一次春夏道路交通严打整治专项行动，重点整治无证驾驶、违规驾驶、套牌、故意遮挡和污损号牌、酒驾、毒驾等违法违规行为。\n2017年3月1日制定了《溆浦县交警大队开展集中打击重点交通违法行为“百日会战”行动方案》（溆公交字﹝2017﹞11号），自2月28日至6月7日，在全县范围内开展集中打击重点交通违法行为“百日会战”行动，重点以城区道路和农村道路“两个主战场”，重点查处超员超速、疲劳驾驶、涉牌涉证、酒驾毒驾、违法载人等违法行为。\n2017年3月18日制定了《溆浦交警大队“落实企业安全生产主体责任年”2017年实施方案》。\n2017年4月20日制定了《溆浦交警大队非客运车辆非法载客专项整治工作方案》（溆公交字﹝2017﹞20号），在全县范围内开展为期6个月的非客运车辆非法载客专项整治行动。\n2017年5月27日制定了《溆浦县公安局交通警察大队开展“打非治违”专项行动工作方案》，自5月中旬至12月底，在全县持续开展打非治违”专项行动。\n2017年6月8日制定了《溆浦县预防重特大道路交通事故专项整治行动方案》，自即日起至12月31日，在全县集中开展以“强化共治、清除隐患、严查违法、集中曝光”为主题的预防重特大道路交通事故专项整治行动。\n",
+      "href": "review-source-XP-0710.html#L67"
+    },
+    {
+      "start": 104,
+      "end": 111,
+      "text": "2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n2016年9月22日下发了《关于低庄镇村级安全生产联组成员及工作职责的通知》，组长由村支书担任、副组长由村主任担任、成员由村干部组成；\n村级安全生产联组办公室设在村委会，办公室主任由村主任兼任，并兼任专职安全联络员；\n村级安全生产联组负责建立本村机动车辆及驾驶员台帐，掌握本村机动车及驾驶员的动态，向交管站提供信息并及时上门督促办牌、办证，并掌握本村机动车辆年度检验情况，配合做好督促车辆年度检验工作。\n2016年9月，低庄镇政府与所辖各个村委会签订了《低庄镇“十条刚性措施”加强农村道路交通安全工作目标管理责任书》。\n2016年10月26日下发了《低庄镇开展取缔三轮车非法营运专项整治行动工作实施方案》，坚决取缔辖区内非法营运三轮车。\n2016年11月28日下发了《低庄镇2016年岁末年初安全生产“大排查、大整治、大管控”行动工作方案》，重点整治管控道路交通等十大行业领域，责任到岗到人。\n2017年1月低庄镇政府与所辖各个村委会签订了《低庄镇农村道路交通安全工作目标管理责任书》和《低庄镇2017年度村（居）绩效考核目标管理责任书》。\n",
+      "href": "review-source-XP-0710.html#L104"
+    },
+    {
+      "start": 184,
+      "end": 195,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n20、向益春，男，溆浦县公安局交警大队三中队长。\n对辖区的车辆监管存在漏洞，对假牌套版车辆打击不力；没有认真督促、指导落实“两实”信息采集工作，对事故发生负有直接监管责任，建议给予行政记大过处分。\n21、宋克洋，男，溆浦县低庄镇党委书记。\n没有严格落实“党政同责、一岗双责”要求，落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 77,
+      "end": 80,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 133,
+      "end": 134,
+      "text": "（2）溆浦县林业局安全监管不到位、没有落实管项目审批必须管安全的要求、对违规占用林地查处不力、行政审批工作管理混乱。\n一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L133"
+    },
+    {
+      "start": 160,
+      "end": 173,
+      "text": "7、刘生善，男，溆浦县林业局党组书记、局长。\n疏于管理，未督促分管领导及相关部门落实监管职责，督促落实打非治违不力，对溆浦县林业局在浦县多韵农生态科技发展有限公司占用林地修建林区公路批复把关不严，行政审批工作管理混乱，对事故发生负有领导责任，建议给予诫勉谈话。\n8、刘东旭，男，溆浦县林业局党组成员、副局长，分管行政审批工作。\n在收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，对林地办提出的建议没有按规定进行审批，其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，依然建议作出《关于同意占用林地的批复》，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n9、王立起，男，溆浦县林业局党组成员、副局长，分管行政执法工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n10、向明建，男，溆浦县林业局党组副书记、副局长，联系低庄片区。\n未按规定对浦县多韵农生态科技发展有限公司开发建设项目履行监管，落实打非治违不力，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n11、熊辉，男，溆浦县林业局调纠办、林地办主任，负责林地审批工作。\n收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，在明知其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，超越职权范围建议作出《关于同意占用林地的批复》，批准同意占用林地0.488公顷，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n12、周智勇，男，溆浦县林业局综合执法大队大队长。\n对浦县多韵农生态科技发展有限公司非法占用林地失察，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n13、贺德健，男，溆浦县林业局综合执法大队低庄中队中队长，负责低庄片区和双井片区林地森林防火、木材流通、乱砍乱伐、野生动植物保护，擅自改变林要用地监督和处理工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L160"
+    },
+    {
+      "start": 101,
+      "end": 104,
+      "text": "4、溆浦县低庄镇人民政府履职情况\n溆浦县低庄镇人民政府根据上级政府、部门的工作安排制定并下发了相关文件，落实具体工作，每季度召开了安全生产工作例会。\n其中，2016年6月28日低庄镇人民政府下发了《低庄镇2016年安全生产隐患排查整治行动工作方案》（低政发﹝2016﹞25号），决定在全镇开展为期一个月的安全隐患排查整治行动，重点排查道路交通、矿山、危险化学品、建筑施工、消防、烟花爆竹、火工产品及其他行业领域。\n2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n",
+      "href": "review-source-XP-0710.html#L101"
+    },
+    {
+      "start": 162,
+      "end": 163,
+      "text": "8、刘东旭，男，溆浦县林业局党组成员、副局长，分管行政审批工作。\n在收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，对林地办提出的建议没有按规定进行审批，其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，依然建议作出《关于同意占用林地的批复》，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L162"
+    },
+    {
+      "start": 168,
+      "end": 169,
+      "text": "11、熊辉，男，溆浦县林业局调纠办、林地办主任，负责林地审批工作。\n收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，在明知其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，超越职权范围建议作出《关于同意占用林地的批复》，批准同意占用林地0.488公顷，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L168"
+    },
+    {
+      "start": 176,
+      "end": 177,
+      "text": "15、冯本钦，男，溆浦县深子湖镇原副书记、镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L176"
+    },
+    {
+      "start": 67,
+      "end": 68,
+      "text": "2017年2月14日溆浦县公安局交通警察大队制定了《县交警大队2017年春夏道路交通严打整治专项行动工作方案》，决定从即日起至2017年6月30日在全县范围内开展一次春夏道路交通严打整治专项行动，重点整治无证驾驶、违规驾驶、套牌、故意遮挡和污损号牌、酒驾、毒驾等违法违规行为。\n2017年3月1日制定了《溆浦县交警大队开展集中打击重点交通违法行为“百日会战”行动方案》（溆公交字﹝2017﹞11号），自2月28日至6月7日，在全县范围内开展集中打击重点交通违法行为“百日会战”行动，重点以城区道路和农村道路“两个主战场”，重点查处超员超速、疲劳驾驶、涉牌涉证、酒驾毒驾、违法载人等违法行为。\n",
+      "href": "review-source-XP-0710.html#L67"
+    },
+    {
+      "start": 92,
+      "end": 100,
+      "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n2017年4月11日召开会议部署加强对违法生产进行巡查、防火、校车等安全生产工作。\n2017年5月8日召开会议部署村委换届等工作，并要求做好安全隐患排查工作，重点排查道路交通等领域。\n2017年6月5日召开会议要求各片区要提高安全意识及时排查安全隐患，加强街道巡查。\n2017年6月12日召开会议要求镇长负责协调，带领相关部门到各企业巡查，重点排查非法营运农用车、三轮车载客，同时注意水上、道路交通。\n2017年6月19日召开会议传达推进“两学一做”常态化制度化，加强各单位、企业安全生产主体责任，计划生育开展宣传活动，安排领导带队检查安全生产工作，各片领导必须排查整改本辖区的安全隐患。\n2017年7月10日召开会议部署交通“打非治违”工作。\n深子湖镇政府没有对黄溪湾村辖区内林业开发在建项目进行安全隐患排查，提交的2017年上半年的安全生产综合监管巡查记录台账中没有溆浦县多韵农生态科技发展有限公司的巡查资料。\n2017年1月4日深子湖镇人民政府向溆浦县多韵农生态科技发展有限公司下达了停工通知。\n",
+      "href": "review-source-XP-0710.html#L92"
+    },
+    {
+      "start": 112,
+      "end": 114,
+      "text": "2017年4月1日召开了进一步开展安全大检查，切实加强安全生产工作会议，部署安全生产大检查各项工作，并下发了《低庄镇人民政府关于进一步开展安全大检查切实加强安全生产工作的通知》（低政发﹝2017﹞18号）。\n2017年4月6日制定了《低庄镇城区交通、市政秩序集中整治工作实施方案》，自4月10日起开展为期一周的城区交通、市政府秩序集中整治专项行动。\n2017年5月29日下发了《低庄镇人民政府关于深入开展安全生产领域“打非治违”专项行动的通知》（低政发﹝2017﹞24号），自5月下旬至12月底，重点整治非煤矿山、道路交通、人员密集场所等十大行业领域。\n",
+      "href": "review-source-XP-0710.html#L112"
+    },
+    {
+      "start": 153,
+      "end": 179,
+      "text": "4、黄德荣，男，溆浦县深子湖镇经济发展办公室工作人员。\n工作失职，对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责，未按规定履行职责，现已被检察机关立案侦查。\n5、杨召发，男，溆浦县深子湖镇聘任制护林员。\n工作失职，没有认真履行属地监管职责，未及时上报溆浦县多韵农生态科技发展有限公司非法占用农用，未按规定履行职责，现已被检察机关立案侦查。\n6、覃通连，男，溆浦县深子湖镇经济发展办公室主任。\n对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，明知其所占用的林地是用于修建林区专用公路，明知溆浦县林业局没有审批权的情况下，仍然签署意见，工作失职，未按规定履行职责，现已被检察机关立案侦查。\n（三）建议给予党纪政纪处分人员\n7、刘生善，男，溆浦县林业局党组书记、局长。\n疏于管理，未督促分管领导及相关部门落实监管职责，督促落实打非治违不力，对溆浦县林业局在浦县多韵农生态科技发展有限公司占用林地修建林区公路批复把关不严，行政审批工作管理混乱，对事故发生负有领导责任，建议给予诫勉谈话。\n8、刘东旭，男，溆浦县林业局党组成员、副局长，分管行政审批工作。\n在收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，对林地办提出的建议没有按规定进行审批，其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，依然建议作出《关于同意占用林地的批复》，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n9、王立起，男，溆浦县林业局党组成员、副局长，分管行政执法工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n10、向明建，男，溆浦县林业局党组副书记、副局长，联系低庄片区。\n未按规定对浦县多韵农生态科技发展有限公司开发建设项目履行监管，落实打非治违不力，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n11、熊辉，男，溆浦县林业局调纠办、林地办主任，负责林地审批工作。\n收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，在明知其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，超越职权范围建议作出《关于同意占用林地的批复》，批准同意占用林地0.488公顷，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n12、周智勇，男，溆浦县林业局综合执法大队大队长。\n对浦县多韵农生态科技发展有限公司非法占用林地失察，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n13、贺德健，男，溆浦县林业局综合执法大队低庄中队中队长，负责低庄片区和双井片区林地森林防火、木材流通、乱砍乱伐、野生动植物保护，擅自改变林要用地监督和处理工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n14、刘仁江，男，溆浦县深子湖镇党委书记。\n没有严格落实“党政同岗、一岗双责”要求，落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促镇政府落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对事故发生负有重要领导责任，建议给予党内警告处分。\n15、冯本钦，男，溆浦县深子湖镇原副书记、镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n16、邹修树，男，溆浦县深子湖镇副镇长，分管农林工作。\n对辖区内林业开发项目建设监管不力，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，没有对镇经济发展办公室提出地建议进行严格把关并签署意见，对事故发生负有主要领导责任，因涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L153"
+    },
+    {
+      "start": 184,
+      "end": 193,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n20、向益春，男，溆浦县公安局交警大队三中队长。\n对辖区的车辆监管存在漏洞，对假牌套版车辆打击不力；没有认真督促、指导落实“两实”信息采集工作，对事故发生负有直接监管责任，建议给予行政记大过处分。\n21、宋克洋，男，溆浦县低庄镇党委书记。\n没有严格落实“党政同责、一岗双责”要求，落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 24,
+      "end": 24,
+      "text": "2017年1月4日收到了深子湖镇政府下达的停工通知，停工一个多月以后未经任何部门批准又继续进行修路施工；\n",
+      "href": "review-source-XP-0710.html#L24"
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "text": "2017年1月4日深子湖镇人民政府向溆浦县多韵农生态科技发展有限公司下达了停工通知。\n",
+      "href": "review-source-XP-0710.html#L100"
+    },
+    {
+      "start": 136,
+      "end": 136,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司监管不到位。该公司自2012年2月16日登记成立起便在深子湖镇开展生产经营活动，至今已长达5年，尤其是2016年至2017年没有形成对该公司的有效监管，对该公司的实际情况不清楚，没有对该公司进行有效巡查。2017年1月4日对该公司下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司的违法行为进行查处。\n",
+      "href": "review-source-XP-0710.html#L136"
+    },
+    {
+      "start": 153,
+      "end": 154,
+      "text": "4、黄德荣，男，溆浦县深子湖镇经济发展办公室工作人员。\n工作失职，对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L153"
+    },
+    {
+      "start": 177,
+      "end": 177,
+      "text": "落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L177"
+    },
+    {
+      "start": 24,
+      "end": 24,
+      "text": "2017年1月4日收到了深子湖镇政府下达的停工通知，停工一个多月以后未经任何部门批准又继续进行修路施工；\n",
+      "href": "review-source-XP-0710.html#L24"
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "text": "2017年1月4日深子湖镇人民政府向溆浦县多韵农生态科技发展有限公司下达了停工通知。\n",
+      "href": "review-source-XP-0710.html#L100"
+    },
+    {
+      "start": 136,
+      "end": 136,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司监管不到位。该公司自2012年2月16日登记成立起便在深子湖镇开展生产经营活动，至今已长达5年，尤其是2016年至2017年没有形成对该公司的有效监管，对该公司的实际情况不清楚，没有对该公司进行有效巡查。2017年1月4日对该公司下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司的违法行为进行查处。\n",
+      "href": "review-source-XP-0710.html#L136"
+    },
+    {
+      "start": 155,
+      "end": 156,
+      "text": "5、杨召发，男，溆浦县深子湖镇聘任制护林员。\n工作失职，没有认真履行属地监管职责，未及时上报溆浦县多韵农生态科技发展有限公司非法占用农用，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L155"
+    },
+    {
+      "start": 177,
+      "end": 177,
+      "text": "落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L177"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 160,
+      "end": 161,
+      "text": "7、刘生善，男，溆浦县林业局党组书记、局长。\n疏于管理，未督促分管领导及相关部门落实监管职责，督促落实打非治违不力，对溆浦县林业局在浦县多韵农生态科技发展有限公司占用林地修建林区公路批复把关不严，行政审批工作管理混乱，对事故发生负有领导责任，建议给予诫勉谈话。\n",
+      "href": "review-source-XP-0710.html#L160"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 162,
+      "end": 163,
+      "text": "8、刘东旭，男，溆浦县林业局党组成员、副局长，分管行政审批工作。\n在收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，对林地办提出的建议没有按规定进行审批，其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，依然建议作出《关于同意占用林地的批复》，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L162"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 132,
+      "end": 134,
+      "text": "该公司未提供任何安全监管方面的资料；2016年12月5日在取得溆浦县林业局批准占用林地0.488公顷的批复后便自行组织人员非法砍伐林木进行林区专用公路修建施工，既没有相关的施工设计方案，也没有相关专业的施工技术人员指导，简单粗放地进行施工长达2600余米，且非法占用林地面积达15.08亩。\n（2）溆浦县林业局安全监管不到位、没有落实管项目审批必须管安全的要求、对违规占用林地查处不力、行政审批工作管理混乱。\n一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L132"
+    },
+    {
+      "start": 133,
+      "end": 134,
+      "text": "（2）溆浦县林业局安全监管不到位、没有落实管项目审批必须管安全的要求、对违规占用林地查处不力、行政审批工作管理混乱。\n一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L133"
+    },
+    {
+      "start": 164,
+      "end": 165,
+      "text": "9、王立起，男，溆浦县林业局党组成员、副局长，分管行政执法工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L164"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 164,
+      "end": 165,
+      "text": "9、王立起，男，溆浦县林业局党组成员、副局长，分管行政执法工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，对事故发生负有主要领导责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L164"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 132,
+      "end": 134,
+      "text": "该公司未提供任何安全监管方面的资料；2016年12月5日在取得溆浦县林业局批准占用林地0.488公顷的批复后便自行组织人员非法砍伐林木进行林区专用公路修建施工，既没有相关的施工设计方案，也没有相关专业的施工技术人员指导，简单粗放地进行施工长达2600余米，且非法占用林地面积达15.08亩。\n（2）溆浦县林业局安全监管不到位、没有落实管项目审批必须管安全的要求、对违规占用林地查处不力、行政审批工作管理混乱。\n一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L132"
+    },
+    {
+      "start": 166,
+      "end": 167,
+      "text": "10、向明建，男，溆浦县林业局党组副书记、副局长，联系低庄片区。\n未按规定对浦县多韵农生态科技发展有限公司开发建设项目履行监管，落实打非治违不力，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L166"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 166,
+      "end": 167,
+      "text": "10、向明建，男，溆浦县林业局党组副书记、副局长，联系低庄片区。\n未按规定对浦县多韵农生态科技发展有限公司开发建设项目履行监管，落实打非治违不力，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L166"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 168,
+      "end": 169,
+      "text": "11、熊辉，男，溆浦县林业局调纠办、林地办主任，负责林地审批工作。\n收到溆浦县多韵农生态科技发展有限公司关于占用林地修建林区公路的请示后，在明知其所占用的林地是用于修建林区专用公路，且没有审批权的情况下，超越职权范围建议作出《关于同意占用林地的批复》，批准同意占用林地0.488公顷，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L168"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 132,
+      "end": 134,
+      "text": "该公司未提供任何安全监管方面的资料；2016年12月5日在取得溆浦县林业局批准占用林地0.488公顷的批复后便自行组织人员非法砍伐林木进行林区专用公路修建施工，既没有相关的施工设计方案，也没有相关专业的施工技术人员指导，简单粗放地进行施工长达2600余米，且非法占用林地面积达15.08亩。\n（2）溆浦县林业局安全监管不到位、没有落实管项目审批必须管安全的要求、对违规占用林地查处不力、行政审批工作管理混乱。\n一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L132"
+    },
+    {
+      "start": 170,
+      "end": 171,
+      "text": "12、周智勇，男，溆浦县林业局综合执法大队大队长。\n对浦县多韵农生态科技发展有限公司非法占用林地失察，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L170"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 170,
+      "end": 171,
+      "text": "12、周智勇，男，溆浦县林业局综合执法大队大队长。\n对浦县多韵农生态科技发展有限公司非法占用林地失察，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L170"
+    },
+    {
+      "start": 22,
+      "end": 22,
+      "text": "2016年12月5日取得了溆浦县林业局关于同意占用林地的批复，批复同意占用林地0.488公顷（7.32亩）。\n",
+      "href": "review-source-XP-0710.html#L22"
+    },
+    {
+      "start": 77,
+      "end": 79,
+      "text": "2016年12月5日，溆浦县林业局作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），具体内容为：一、根据《森林法实施条例》第一十七条、《湖南省林业条例》第十条之规定，经现场查验，同意你公司因建设需在溆浦县深子湖镇岩屋村内占用林地0.488公顷（7.32亩）。\n你公司负责按所批的地点、面积用地，不得超范围使用。\n二、占用林地需采伐的林木必须依法办理林木采伐许可证。\n",
+      "href": "review-source-XP-0710.html#L77"
+    },
+    {
+      "start": 132,
+      "end": 134,
+      "text": "该公司未提供任何安全监管方面的资料；2016年12月5日在取得溆浦县林业局批准占用林地0.488公顷的批复后便自行组织人员非法砍伐林木进行林区专用公路修建施工，既没有相关的施工设计方案，也没有相关专业的施工技术人员指导，简单粗放地进行施工长达2600余米，且非法占用林地面积达15.08亩。\n（2）溆浦县林业局安全监管不到位、没有落实管项目审批必须管安全的要求、对违规占用林地查处不力、行政审批工作管理混乱。\n一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L132"
+    },
+    {
+      "start": 172,
+      "end": 173,
+      "text": "13、贺德健，男，溆浦县林业局综合执法大队低庄中队中队长，负责低庄片区和双井片区林地森林防火、木材流通、乱砍乱伐、野生动植物保护，擅自改变林要用地监督和处理工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L172"
+    },
+    {
+      "start": 80,
+      "end": 80,
+      "text": "同日，溆浦县林业局又作出一份《关于同意临时占用林地的批复》（溆林复﹝2016﹞5号），在具体内容上增加了一项“三、占用期限自2016年12月5日至2018年12月5日，有效期2年。占用期满后，你单位必须恢复用占林地的林业生产条件。”\n",
+      "href": "review-source-XP-0710.html#L80"
+    },
+    {
+      "start": 134,
+      "end": 134,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司安全生产监管不到位。溆浦县林业局除有对该公司占用林地审批资料外无其他日常监管资料，未对该公司开展执法检查，未督促该公司落实企业安全生产主体责任和开展生产安全事故隐患排查；该公司非法长期占用林地，至事故发生时已非法占用林地15.08亩，未对该公司进行查处，也未将该公司的违法行为移送溆浦县森林公安依法查处。二是行政审批工作管理混乱。溆浦县林业局越权作出了《关于同意占用林地的批复》（溆林复﹝2016﹞5号），批准同意占用林地0.488公顷；经调查发现溆浦县林业局的溆林复﹝2016﹞5号文件存在两个同一文号、同一落款日期、内容不同的文件，一份是《关于同意占用林地的批复》，另一份是《关于同意临时占用林地的批复》。\n",
+      "href": "review-source-XP-0710.html#L134"
+    },
+    {
+      "start": 172,
+      "end": 173,
+      "text": "13、贺德健，男，溆浦县林业局综合执法大队低庄中队中队长，负责低庄片区和双井片区林地森林防火、木材流通、乱砍乱伐、野生动植物保护，擅自改变林要用地监督和处理工作。\n对浦县多韵农生态科技发展有限公司开发建设项目监管不到位，落实打非治违不力，未按规定履行职责，对事故发生负有直接监管责任，因其涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L172"
+    },
+    {
+      "start": 67,
+      "end": 67,
+      "text": "2017年2月14日溆浦县公安局交通警察大队制定了《县交警大队2017年春夏道路交通严打整治专项行动工作方案》，决定从即日起至2017年6月30日在全县范围内开展一次春夏道路交通严打整治专项行动，重点整治无证驾驶、违规驾驶、套牌、故意遮挡和污损号牌、酒驾、毒驾等违法违规行为。\n",
+      "href": "review-source-XP-0710.html#L67"
+    },
+    {
+      "start": 184,
+      "end": 187,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n20、向益春，男，溆浦县公安局交警大队三中队长。\n对辖区的车辆监管存在漏洞，对假牌套版车辆打击不力；没有认真督促、指导落实“两实”信息采集工作，对事故发生负有直接监管责任，建议给予行政记大过处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 68,
+      "end": 68,
+      "text": "2017年3月1日制定了《溆浦县交警大队开展集中打击重点交通违法行为“百日会战”行动方案》（溆公交字﹝2017﹞11号），自2月28日至6月7日，在全县范围内开展集中打击重点交通违法行为“百日会战”行动，重点以城区道路和农村道路“两个主战场”，重点查处超员超速、疲劳驾驶、涉牌涉证、酒驾毒驾、违法载人等违法行为。\n",
+      "href": "review-source-XP-0710.html#L68"
+    },
+    {
+      "start": 184,
+      "end": 187,
+      "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n20、向益春，男，溆浦县公安局交警大队三中队长。\n对辖区的车辆监管存在漏洞，对假牌套版车辆打击不力；没有认真督促、指导落实“两实”信息采集工作，对事故发生负有直接监管责任，建议给予行政记大过处分。\n",
+      "href": "review-source-XP-0710.html#L184"
+    },
+    {
+      "start": 24,
+      "end": 24,
+      "text": "2017年1月4日收到了深子湖镇政府下达的停工通知，停工一个多月以后未经任何部门批准又继续进行修路施工；\n",
+      "href": "review-source-XP-0710.html#L24"
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "text": "2017年1月4日深子湖镇人民政府向溆浦县多韵农生态科技发展有限公司下达了停工通知。\n",
+      "href": "review-source-XP-0710.html#L100"
+    },
+    {
+      "start": 136,
+      "end": 136,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司监管不到位。该公司自2012年2月16日登记成立起便在深子湖镇开展生产经营活动，至今已长达5年，尤其是2016年至2017年没有形成对该公司的有效监管，对该公司的实际情况不清楚，没有对该公司进行有效巡查。2017年1月4日对该公司下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司的违法行为进行查处。\n",
+      "href": "review-source-XP-0710.html#L136"
+    },
+    {
+      "start": 157,
+      "end": 158,
+      "text": "6、覃通连，男，溆浦县深子湖镇经济发展办公室主任。\n对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，明知其所占用的林地是用于修建林区专用公路，明知溆浦县林业局没有审批权的情况下，仍然签署意见，工作失职，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L157"
+    },
+    {
+      "start": 177,
+      "end": 177,
+      "text": "落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L177"
+    },
+    {
+      "start": 24,
+      "end": 24,
+      "text": "2017年1月4日收到了深子湖镇政府下达的停工通知，停工一个多月以后未经任何部门批准又继续进行修路施工；\n",
+      "href": "review-source-XP-0710.html#L24"
+    },
+    {
+      "start": 100,
+      "end": 100,
+      "text": "2017年1月4日深子湖镇人民政府向溆浦县多韵农生态科技发展有限公司下达了停工通知。\n",
+      "href": "review-source-XP-0710.html#L100"
+    },
+    {
+      "start": 136,
+      "end": 136,
+      "text": "一是对溆浦县多韵农生态科技发展有限公司监管不到位。该公司自2012年2月16日登记成立起便在深子湖镇开展生产经营活动，至今已长达5年，尤其是2016年至2017年没有形成对该公司的有效监管，对该公司的实际情况不清楚，没有对该公司进行有效巡查。2017年1月4日对该公司下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司的违法行为进行查处。\n",
+      "href": "review-source-XP-0710.html#L136"
+    },
+    {
+      "start": 177,
+      "end": 177,
+      "text": "落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位；没有督促落实对溆浦县多韵农生态科技发展有限公司的属地监管责任，对违法行为下达停工通知以后没有采取有力措施，没有组织或请求相关职能部门依法对该公司违法行为进行查处，对事故发生负有重要领导责任，已免职，建议给予党内警告处分。\n",
+      "href": "review-source-XP-0710.html#L177"
+    },
+    {
+      "start": 178,
+      "end": 179,
+      "text": "16、邹修树，男，溆浦县深子湖镇副镇长，分管农林工作。\n对辖区内林业开发项目建设监管不力，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，没有对镇经济发展办公室提出地建议进行严格把关并签署意见，对事故发生负有主要领导责任，因涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L178"
+    },
+    {
+      "start": 92,
+      "end": 92,
+      "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+      "href": "review-source-XP-0710.html#L92"
+    },
+    {
+      "start": 178,
+      "end": 179,
+      "text": "16、邹修树，男，溆浦县深子湖镇副镇长，分管农林工作。\n对辖区内林业开发项目建设监管不力，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，没有对镇经济发展办公室提出地建议进行严格把关并签署意见，对事故发生负有主要领导责任，因涉及其他违纪问题，建议由溆浦县纪委并案处理。\n",
+      "href": "review-source-XP-0710.html#L178"
+    },
+    {
+      "start": 92,
+      "end": 92,
+      "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+      "href": "review-source-XP-0710.html#L92"
+    },
+    {
+      "start": 153,
+      "end": 154,
+      "text": "4、黄德荣，男，溆浦县深子湖镇经济发展办公室工作人员。\n工作失职，对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L153"
+    },
+    {
+      "start": 92,
+      "end": 92,
+      "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+      "href": "review-source-XP-0710.html#L92"
+    },
+    {
+      "start": 155,
+      "end": 156,
+      "text": "5、杨召发，男，溆浦县深子湖镇聘任制护林员。\n工作失职，没有认真履行属地监管职责，未及时上报溆浦县多韵农生态科技发展有限公司非法占用农用，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L155"
+    },
+    {
+      "start": 92,
+      "end": 92,
+      "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+      "href": "review-source-XP-0710.html#L92"
+    },
+    {
+      "start": 157,
+      "end": 158,
+      "text": "6、覃通连，男，溆浦县深子湖镇经济发展办公室主任。\n对辖区内林业开发项目建设监管不到位，没有认真履行属地监管职责；在收到溆浦县多韵农生态科技发展有限公司向溆浦县林业局提交的关于占用林地修建林区公路的请示后，明知其所占用的林地是用于修建林区专用公路，明知溆浦县林业局没有审批权的情况下，仍然签署意见，工作失职，未按规定履行职责，现已被检察机关立案侦查。\n",
+      "href": "review-source-XP-0710.html#L157"
+    },
+    {
+      "start": 112,
+      "end": 112,
+      "text": "2017年4月1日召开了进一步开展安全大检查，切实加强安全生产工作会议，部署安全生产大检查各项工作，并下发了《低庄镇人民政府关于进一步开展安全大检查切实加强安全生产工作的通知》（低政发﹝2017﹞18号）。\n",
+      "href": "review-source-XP-0710.html#L112"
+    },
+    {
+      "start": 192,
+      "end": 193,
+      "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+      "href": "review-source-XP-0710.html#L192"
+    }
+  ]
+}
