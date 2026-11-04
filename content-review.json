@@ -1,0 +1,2924 @@
+{
+  "task": 137,
+  "review_scope": "XP18 given claims, independent informed model content review; no new extraction",
+  "counts": {
+    "reviewed": 18,
+    "supported": 18,
+    "unsupported": 0,
+    "pending": 0,
+    "changed_status": 0,
+    "new_author_questions": 0,
+    "working_candidates": 40
+  },
+  "source_sha256": "0189248b46619d911a675253487f154486de95ef45b12659155206426ef83a74",
+  "independent_answer_sha256": "af2c48838bbfc5e29714b64200ff17761f15880dcf3dace00b3363d51d228f2b",
+  "records": [
+    {
+      "id": "NEW-01",
+      "subject": "严洪波",
+      "subject_key": "P24",
+      "fact_key": "F29",
+      "material": "2016年7月22日深子湖镇交通安全隐患排查治理方案",
+      "owner": "深子湖镇人民政府",
+      "original_coordinator_reason": "同镇政府材料；本人自2016年1月分管交通，兼道交委副主任和交管站站长；方案明确针对交通或机动车排查。只共享交通履职背景，不称个人制发。",
+      "independent_review": {
+        "id": "NEW-01",
+        "decision": "supported",
+        "material_owner": "深子湖镇人民政府",
+        "carrier": "2016年7月交通安全隐患排查治理方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 86,
+              "end": 86
+            }
+          ],
+          "reason": "镇政府是本地方案制订机关；不是把上级文件转归个人。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 86,
+              "end": 86
+            },
+            {
+              "start": 180,
+              "end": 181
+            }
+          ],
+          "reason": "严洪波担任本镇交通管理职务，交通分工涵盖方案事项，形成同机关具体职责共享。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 86,
+              "end": 86
+            },
+            {
+              "start": 181,
+              "end": 181
+            }
+          ],
+          "reason": "方案形成及其交通分工均在事故前，且形成时处于已明示的任职区间。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 180,
+              "end": 181
+            }
+          ],
+          "reason": "严洪波本人对应行政记过提议；报告此处未证明执行。"
+        },
+        "support_refs": [
+          {
+            "start": 86,
+            "end": 86
+          },
+          {
+            "start": 180,
+            "end": 181
+          }
+        ],
+        "counter_refs": [],
+        "reason": "具名本镇交通安全方案与本人交通管理职责直接相接；共享不表示其亲自制订或落实方案。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-01",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "只共享交通安全隐患排查方案背景，不称亲自制订或执行。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 86,
+            "end": 86
+          },
+          {
+            "start": 180,
+            "end": 181
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 86,
+          "end": 86,
+          "text": "2016年7月22日深子湖镇人民政府制定了《深子湖镇交通安全隐患排查和治理工作方案》。\n",
+          "href": "review-source-XP-0710.html#L86"
+        },
+        {
+          "report": "XP-0710",
+          "start": 180,
+          "end": 181,
+          "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L180"
+        },
+        {
+          "report": "XP-0710",
+          "start": 181,
+          "end": 181,
+          "text": "2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L181"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 181,
+            "line_end": 181
+          }
+        ],
+        "note": "党委委员、政协联工委主任、道交委副主任、交管站长，2016年1月起分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-02",
+      "subject": "严洪波",
+      "subject_key": "P24",
+      "fact_key": "F31",
+      "material": "2017年3月2日深子湖镇镇村安全隐患排查方案，深政发2017年11号",
+      "owner": "深子湖镇人民政府",
+      "original_coordinator_reason": "同镇政府材料；本人自2016年1月分管交通，兼道交委副主任和交管站站长；方案明确针对交通或机动车排查。只共享交通履职背景，不称个人制发。",
+      "independent_review": {
+        "id": "NEW-02",
+        "decision": "supported",
+        "material_owner": "深子湖镇人民政府",
+        "carrier": "2017年3月镇村安全隐患排查方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 92,
+              "end": 92
+            }
+          ],
+          "reason": "本镇方案可辨认，机动车与林场列作排查对象。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 92,
+              "end": 92
+            },
+            {
+              "start": 180,
+              "end": 181
+            }
+          ],
+          "reason": "严洪波的交通分工可连接方案中的机动车排查部分，不能据此扩成其主管全部林业事项。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 92,
+              "end": 92
+            },
+            {
+              "start": 181,
+              "end": 181
+            }
+          ],
+          "reason": "形成于事故前，处于本人自2016年起的交通分工期间。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 180,
+              "end": 181
+            }
+          ],
+          "reason": "本人行政记过属于处理提议。"
+        },
+        "support_refs": [
+          {
+            "start": 92,
+            "end": 92
+          },
+          {
+            "start": 180,
+            "end": 181
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持机动车安全排查背景的共享，依据是具体交通职责与材料事项相接，而非同镇身份。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-02",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "只共享方案中机动车/交通排查部分，不把林场等全部事项归个人。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 92,
+            "end": 92
+          },
+          {
+            "start": 180,
+            "end": 181
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 92,
+          "end": 92,
+          "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+          "href": "review-source-XP-0710.html#L92"
+        },
+        {
+          "report": "XP-0710",
+          "start": 180,
+          "end": 181,
+          "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L180"
+        },
+        {
+          "report": "XP-0710",
+          "start": 181,
+          "end": 181,
+          "text": "2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L181"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 181,
+            "line_end": 181
+          }
+        ],
+        "note": "党委委员、政协联工委主任、道交委副主任、交管站长，2016年1月起分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-03",
+      "subject": "项晓雁",
+      "subject_key": "P27",
+      "fact_key": "F17",
+      "material": "2017年2月14日春夏道路交通严打整治工作方案",
+      "owner": "溆浦县公安局交通警察大队",
+      "original_coordinator_reason": "大队长身份、本人对开展工作未跟进及打击假牌套牌不力的具体责任，与本大队交通违法整治系列方案连接；F17/18有涉牌涉证内容，F20/21/22为本案交通监管及持续整治背景。不是对全体大队人员泛配。",
+      "independent_review": {
+        "id": "NEW-03",
+        "decision": "supported",
+        "material_owner": "溆浦县公安局交通警察大队",
+        "carrier": "2017年2月春夏道路交通严打整治方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 67,
+              "end": 67
+            }
+          ],
+          "reason": "大队制订主体及方案均有明确记载。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 67,
+              "end": 67
+            },
+            {
+              "start": 139,
+              "end": 140
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "项晓雁是大队负责人，其本人被追究相关工作跟进总结及涉牌监管责任；方案的涉牌整治事项与之相接。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 67,
+              "end": 67
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "专项截至6月底，早于事故；本人责任段仍将有关整治工作跟进总结列为本案职责背景，不需要假定2月已任职。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "本人党内警告为处分建议。"
+        },
+        "support_refs": [
+          {
+            "start": 67,
+            "end": 67
+          },
+          {
+            "start": 139,
+            "end": 140
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ],
+        "counter_refs": [
+          {
+            "start": 67,
+            "end": 67
+          }
+        ],
+        "reason": "阶段结束限制了事故当日仍在实施的说法，但不排除已有方案作为其被评价的具体监管背景。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-03",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "行动6月底已结束，保留跟进总结责任背景；精确任职起点未载，不称事故日仍在开展。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 67,
+            "end": 67
+          },
+          {
+            "start": 139,
+            "end": 140
+          },
+          {
+            "start": 184,
+            "end": 185
+          },
+          {
+            "start": 67,
+            "end": 67
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 67,
+          "end": 67,
+          "text": "2017年2月14日溆浦县公安局交通警察大队制定了《县交警大队2017年春夏道路交通严打整治专项行动工作方案》，决定从即日起至2017年6月30日在全县范围内开展一次春夏道路交通严打整治专项行动，重点整治无证驾驶、违规驾驶、套牌、故意遮挡和污损号牌、酒驾、毒驾等违法违规行为。\n",
+          "href": "review-source-XP-0710.html#L67"
+        },
+        {
+          "report": "XP-0710",
+          "start": 139,
+          "end": 140,
+          "text": "（5）溆浦县公安局交通警察大队安全监管存在漏洞、打非治违不力。\n一是没有落实行业监管责任，没有认真督促交管站落实“两实”信息采集和及时更新采集信息工作；二是开展了多项集中整治工作，没有形成有力的震慑，文件或专项行动下发以后没有及时跟进，没有及时总结成效，致使监管存在漏洞；三是对辖区内的涉假牌套牌车辆存在打非治违不力，本次事故车辆在溆浦县境内非法行驶长达一年多时间，没有排查发现该违法车辆。\n",
+          "href": "review-source-XP-0710.html#L139"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        }
+      ],
+      "own_outcome": {
+        "status": "党内警告",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 185,
+            "line_end": 185
+          }
+        ],
+        "note": "县交警大队长、联系三中队。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-04",
+      "subject": "项晓雁",
+      "subject_key": "P27",
+      "fact_key": "F18",
+      "material": "2017年3月1日重点交通违法百日会战行动方案，溆公交字2017年11号",
+      "owner": "溆浦县公安局交通警察大队",
+      "original_coordinator_reason": "大队长身份、本人对开展工作未跟进及打击假牌套牌不力的具体责任，与本大队交通违法整治系列方案连接；F17/18有涉牌涉证内容，F20/21/22为本案交通监管及持续整治背景。不是对全体大队人员泛配。",
+      "independent_review": {
+        "id": "NEW-04",
+        "decision": "supported",
+        "material_owner": "溆浦县公安局交通警察大队",
+        "carrier": "2017年重点交通违法百日会战方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 68,
+              "end": 68
+            }
+          ],
+          "reason": "大队在连续履职叙述中制订本方案，文号可辨。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 68,
+              "end": 68
+            },
+            {
+              "start": 139,
+              "end": 140
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "项晓雁的负责人身份及本人跟进总结责任，与方案涵盖的农村涉牌等交通违法整治相接。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 68,
+              "end": 68
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "行动6月上旬已结束；源文对相关工作跟进和效果总结的本人归责使其仍可作为事故前实际职责背景。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "只确认对本人提出党内警告，不确认已执行。"
+        },
+        "support_refs": [
+          {
+            "start": 68,
+            "end": 68
+          },
+          {
+            "start": 139,
+            "end": 140
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ],
+        "counter_refs": [
+          {
+            "start": 68,
+            "end": 68
+          }
+        ],
+        "reason": "支持负责人共享具体道路违法整治背景；不能把方案写成事故当日尚在执行的百日行动。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-04",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "百日行动6月上旬已结束，保留具体工作跟进背景，不称事故日仍在执行。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 68,
+            "end": 68
+          },
+          {
+            "start": 139,
+            "end": 140
+          },
+          {
+            "start": 184,
+            "end": 185
+          },
+          {
+            "start": 68,
+            "end": 68
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 68,
+          "end": 68,
+          "text": "2017年3月1日制定了《溆浦县交警大队开展集中打击重点交通违法行为“百日会战”行动方案》（溆公交字﹝2017﹞11号），自2月28日至6月7日，在全县范围内开展集中打击重点交通违法行为“百日会战”行动，重点以城区道路和农村道路“两个主战场”，重点查处超员超速、疲劳驾驶、涉牌涉证、酒驾毒驾、违法载人等违法行为。\n",
+          "href": "review-source-XP-0710.html#L68"
+        },
+        {
+          "report": "XP-0710",
+          "start": 139,
+          "end": 140,
+          "text": "（5）溆浦县公安局交通警察大队安全监管存在漏洞、打非治违不力。\n一是没有落实行业监管责任，没有认真督促交管站落实“两实”信息采集和及时更新采集信息工作；二是开展了多项集中整治工作，没有形成有力的震慑，文件或专项行动下发以后没有及时跟进，没有及时总结成效，致使监管存在漏洞；三是对辖区内的涉假牌套牌车辆存在打非治违不力，本次事故车辆在溆浦县境内非法行驶长达一年多时间，没有排查发现该违法车辆。\n",
+          "href": "review-source-XP-0710.html#L139"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        }
+      ],
+      "own_outcome": {
+        "status": "党内警告",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 185,
+            "line_end": 185
+          }
+        ],
+        "note": "县交警大队长、联系三中队。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-05",
+      "subject": "项晓雁",
+      "subject_key": "P27",
+      "fact_key": "F20",
+      "material": "2017年4月20日非客运车辆非法载客专项整治方案，溆公交字2017年20号",
+      "owner": "溆浦县公安局交通警察大队",
+      "original_coordinator_reason": "大队长身份、本人对开展工作未跟进及打击假牌套牌不力的具体责任，与本大队交通违法整治系列方案连接；F17/18有涉牌涉证内容，F20/21/22为本案交通监管及持续整治背景。不是对全体大队人员泛配。",
+      "independent_review": {
+        "id": "NEW-05",
+        "decision": "supported",
+        "material_owner": "溆浦县公安局交通警察大队",
+        "carrier": "2017年4月非客运车辆非法载客专项整治方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 70,
+              "end": 70
+            }
+          ],
+          "reason": "方案在大队履职段，名称及文号可辨认。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 70,
+              "end": 70
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "项晓雁作为大队负责人，对道路交通整治工作跟进负有本人责任，本方案属于该具体业务范围。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 70,
+              "end": 70
+            }
+          ],
+          "reason": "4月启动的六个月专项涵盖事故日期；不由此推定检查或执行次数。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "本人对应党内警告提议。"
+        },
+        "support_refs": [
+          {
+            "start": 70,
+            "end": 70
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持业务背景共享，不由本方案反推事故中的顺道搭乘已经构成非法载客，也不认定其亲自执行。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-05",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "方案业务背景不等于本次顺道搭乘已构成非法载客，也不证明个人实施。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 70,
+            "end": 70
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 70,
+          "end": 70,
+          "text": "2017年4月20日制定了《溆浦交警大队非客运车辆非法载客专项整治工作方案》（溆公交字﹝2017﹞20号），在全县范围内开展为期6个月的非客运车辆非法载客专项整治行动。\n",
+          "href": "review-source-XP-0710.html#L70"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        }
+      ],
+      "own_outcome": {
+        "status": "党内警告",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 185,
+            "line_end": 185
+          }
+        ],
+        "note": "县交警大队长、联系三中队。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-06",
+      "subject": "项晓雁",
+      "subject_key": "P27",
+      "fact_key": "F21",
+      "material": "2017年5月27日打非治违专项行动方案",
+      "owner": "溆浦县公安局交通警察大队",
+      "original_coordinator_reason": "大队长身份、本人对开展工作未跟进及打击假牌套牌不力的具体责任，与本大队交通违法整治系列方案连接；F17/18有涉牌涉证内容，F20/21/22为本案交通监管及持续整治背景。不是对全体大队人员泛配。",
+      "independent_review": {
+        "id": "NEW-06",
+        "decision": "supported",
+        "material_owner": "溆浦县公安局交通警察大队",
+        "carrier": "2017年5月打非治违专项行动方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 71,
+              "end": 71
+            }
+          ],
+          "reason": "制订者是大队，载体为可辨认的专项方案。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 71,
+              "end": 71
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "大队负责人的交通执法及相关工作跟进责任，与本部门打非治违专项事项对应。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 71,
+              "end": 71
+            }
+          ],
+          "reason": "形成在事故前，所定专项延续至年末，覆盖事故时段。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "本人党内警告为建议阶段。"
+        },
+        "support_refs": [
+          {
+            "start": 71,
+            "end": 71
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ],
+        "counter_refs": [],
+        "reason": "材料与其具体交通管理职责有联系，支持shared；不能由计划期间推出实际整治次数或成效。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-06",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "文书与分工有关；不能由计划期推出实际检查次数、落实或成效。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 71,
+            "end": 71
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 71,
+          "end": 71,
+          "text": "2017年5月27日制定了《溆浦县公安局交通警察大队开展“打非治违”专项行动工作方案》，自5月中旬至12月底，在全县持续开展打非治违”专项行动。\n",
+          "href": "review-source-XP-0710.html#L71"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        }
+      ],
+      "own_outcome": {
+        "status": "党内警告",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 185,
+            "line_end": 185
+          }
+        ],
+        "note": "县交警大队长、联系三中队。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-07",
+      "subject": "项晓雁",
+      "subject_key": "P27",
+      "fact_key": "F22",
+      "material": "2017年6月8日预防重特大道路交通事故专项整治方案",
+      "owner": "溆浦县公安局交通警察大队",
+      "original_coordinator_reason": "大队长身份、本人对开展工作未跟进及打击假牌套牌不力的具体责任，与本大队交通违法整治系列方案连接；F17/18有涉牌涉证内容，F20/21/22为本案交通监管及持续整治背景。不是对全体大队人员泛配。",
+      "independent_review": {
+        "id": "NEW-07",
+        "decision": "supported",
+        "material_owner": "溆浦县公安局交通警察大队",
+        "carrier": "2017年6月预防重特大道路交通事故专项整治方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 59,
+              "end": 59
+            },
+            {
+              "start": 71,
+              "end": 72
+            }
+          ],
+          "reason": "在交警大队履职与连续制订方案的叙述中，县域标题不把owner改成县政府。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 72,
+              "end": 72
+            },
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "方案要求清除道路隐患及查处违法，与项晓雁的大队负责及本人监管跟进责任相接。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 72,
+              "end": 72
+            }
+          ],
+          "reason": "6月已制订，专项持续至年底，事故日期在其工作区间内。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 184,
+              "end": 185
+            }
+          ],
+          "reason": "本人对应党内警告处理建议。"
+        },
+        "support_refs": [
+          {
+            "start": 59,
+            "end": 59
+          },
+          {
+            "start": 72,
+            "end": 72
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持大队负责人的具体道路安全背景共享；未见其个人制订或带队证据，不升级为direct。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-07",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "共享道路安全职责背景，不升级为亲自制订、签发或带队。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 59,
+            "end": 59
+          },
+          {
+            "start": 72,
+            "end": 72
+          },
+          {
+            "start": 184,
+            "end": 185
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 59,
+          "end": 59,
+          "text": "2、溆浦县公安局交通警察大队履职情况\n",
+          "href": "review-source-XP-0710.html#L59"
+        },
+        {
+          "report": "XP-0710",
+          "start": 71,
+          "end": 72,
+          "text": "2017年5月27日制定了《溆浦县公安局交通警察大队开展“打非治违”专项行动工作方案》，自5月中旬至12月底，在全县持续开展打非治违”专项行动。\n2017年6月8日制定了《溆浦县预防重特大道路交通事故专项整治行动方案》，自即日起至12月31日，在全县集中开展以“强化共治、清除隐患、严查违法、集中曝光”为主题的预防重特大道路交通事故专项整治行动。\n",
+          "href": "review-source-XP-0710.html#L71"
+        },
+        {
+          "report": "XP-0710",
+          "start": 72,
+          "end": 72,
+          "text": "2017年6月8日制定了《溆浦县预防重特大道路交通事故专项整治行动方案》，自即日起至12月31日，在全县集中开展以“强化共治、清除隐患、严查违法、集中曝光”为主题的预防重特大道路交通事故专项整治行动。\n",
+          "href": "review-source-XP-0710.html#L72"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        }
+      ],
+      "own_outcome": {
+        "status": "党内警告",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 185,
+            "line_end": 185
+          }
+        ],
+        "note": "县交警大队长、联系三中队。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-08",
+      "subject": "刘兴",
+      "subject_key": "P30",
+      "fact_key": "F44",
+      "material": "低庄镇2016年9月实际收集一次两实信息并有采集台账",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "既有台账见115行，138行明确事故前仍存在未及时更新上报的问题，本人责任段明确“两实”督促或后续排查职责，支持持续适用背景共享。没有新增一次采集或更新，不声称本人完成2016年采集。",
+      "independent_review": {
+        "id": "NEW-08",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年9月一次两实采集及其既有信息台账，合为一个事实",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 115,
+              "end": 115
+            },
+            {
+              "start": 138,
+              "end": 138
+            }
+          ],
+          "reason": "实际采集及信息台账均属低庄镇政府；村级漏登是缺漏背景，不另造已有登记。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 115,
+              "end": 115
+            },
+            {
+              "start": 138,
+              "end": 138
+            },
+            {
+              "start": 190,
+              "end": 191
+            }
+          ],
+          "reason": "刘兴的镇长身份及本人被归责的两实排查督促，与未及时维护的既有信息工作直接相接。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 115,
+              "end": 115
+            },
+            {
+              "start": 138,
+              "end": 138
+            },
+            {
+              "start": 190,
+              "end": 191
+            }
+          ],
+          "reason": "初次采集早于事故；台账未维护及信息漏项延续至事发背景，支持存量共享，无须假定2016年已任镇长。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 190,
+              "end": 191
+            }
+          ],
+          "reason": "刘兴本人对应诫勉提议。"
+        },
+        "support_refs": [
+          {
+            "start": 115,
+            "end": 115
+          },
+          {
+            "start": 138,
+            "end": 138
+          },
+          {
+            "start": 190,
+            "end": 191
+          }
+        ],
+        "counter_refs": [],
+        "reason": "后任或任期未明不阻断已由本人两实职责连接的存量台账；不称本人完成初采，不虚构月度更新。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-08",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "共享存量台账的持续管理背景，不称2016年在任或本人初采，不补实际月更。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 115,
+            "end": 115
+          },
+          {
+            "start": 138,
+            "end": 138
+          },
+          {
+            "start": 190,
+            "end": 191
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 115,
+          "end": 115,
+          "text": "低庄镇政府对“两实”（农村实有车辆、实有驾驶人）信息采集进行了部署安排，在2016年9月进行了一次收集，没有按规定进行一月一更新，“两实”信息采集台账中没有本次事故肇事车辆登记信息。\n",
+          "href": "review-source-XP-0710.html#L115"
+        },
+        {
+          "report": "XP-0710",
+          "start": 138,
+          "end": 138,
+          "text": "低庄镇“两实”信息底数不清。2016年8月1日中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），要求坚决落实“两实”信息采集，即农村实有车辆、实有驾驶人基础信息采集。低庄镇人民政府开展了“两实”信息工作，但没有按照文件的要求落实到位，没有及时更新和上报，事故车辆原车主谢墩丁自2012年起就租住在低庄镇粮站内，低庄镇粮站地处荆湖村和低庄镇村交界，事故车辆自2015年12月26日起长期停放在粮站内，至事故发生前已长达1年多时间，荆湖村和低庄镇村均没有将该车信息进行“两实”登记，并上报上级政府及相关部门。\n",
+          "href": "review-source-XP-0710.html#L138"
+        },
+        {
+          "report": "XP-0710",
+          "start": 190,
+          "end": 191,
+          "text": "22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n",
+          "href": "review-source-XP-0710.html#L190"
+        }
+      ],
+      "own_outcome": {
+        "status": "诫勉谈话",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 191,
+            "line_end": 191
+          }
+        ],
+        "note": "低庄镇镇长；2016年采集时任期未明确。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-09",
+      "subject": "田向阳",
+      "subject_key": "P31",
+      "fact_key": "F44",
+      "material": "低庄镇2016年9月实际收集一次两实信息并有采集台账",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "既有台账见115行，138行明确事故前仍存在未及时更新上报的问题，本人责任段明确“两实”督促或后续排查职责，支持持续适用背景共享。没有新增一次采集或更新，不声称本人完成2016年采集。",
+      "independent_review": {
+        "id": "NEW-09",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年9月一次两实采集及其既有信息台账，合为一个事实",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 115,
+              "end": 115
+            },
+            {
+              "start": 138,
+              "end": 138
+            }
+          ],
+          "reason": "镇政府是本次信息采集及台账owner；没有肇事车辆信息属于已存在台账的缺项。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 115,
+              "end": 115
+            },
+            {
+              "start": 138,
+              "end": 138
+            },
+            {
+              "start": 192,
+              "end": 195
+            }
+          ],
+          "reason": "田向阳自2017年3月接管交通，源文明列其两实后续排查督促责任，足以连接前任时期的存量台账。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 115,
+              "end": 115
+            },
+            {
+              "start": 192,
+              "end": 195
+            }
+          ],
+          "reason": "初采时尚属舒杰交通分工阶段；田向阳接任后的持续信息管理职责另有明确依据，不把初采归本人。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 192,
+              "end": 193
+            }
+          ],
+          "reason": "田向阳本人对应行政记过建议。"
+        },
+        "support_refs": [
+          {
+            "start": 115,
+            "end": 115
+          },
+          {
+            "start": 138,
+            "end": 138
+          },
+          {
+            "start": 192,
+            "end": 195
+          }
+        ],
+        "counter_refs": [
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "reason": "支持后续管理背景共享；前任分工是禁止误记亲自初采的时间限制，不是共享的排除依据。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-09",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "后续两实职责支持存量台账共享，不把前任阶段的初采归本人，不虚构更新。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 115,
+            "end": 115
+          },
+          {
+            "start": 138,
+            "end": 138
+          },
+          {
+            "start": 192,
+            "end": 195
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 115,
+          "end": 115,
+          "text": "低庄镇政府对“两实”（农村实有车辆、实有驾驶人）信息采集进行了部署安排，在2016年9月进行了一次收集，没有按规定进行一月一更新，“两实”信息采集台账中没有本次事故肇事车辆登记信息。\n",
+          "href": "review-source-XP-0710.html#L115"
+        },
+        {
+          "report": "XP-0710",
+          "start": 138,
+          "end": 138,
+          "text": "低庄镇“两实”信息底数不清。2016年8月1日中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），要求坚决落实“两实”信息采集，即农村实有车辆、实有驾驶人基础信息采集。低庄镇人民政府开展了“两实”信息工作，但没有按照文件的要求落实到位，没有及时更新和上报，事故车辆原车主谢墩丁自2012年起就租住在低庄镇粮站内，低庄镇粮站地处荆湖村和低庄镇村交界，事故车辆自2015年12月26日起长期停放在粮站内，至事故发生前已长达1年多时间，荆湖村和低庄镇村均没有将该车信息进行“两实”登记，并上报上级政府及相关部门。\n",
+          "href": "review-source-XP-0710.html#L138"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 193,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 195,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 193,
+            "line_end": 193
+          }
+        ],
+        "note": "党委委员、人大主席；2017年3月起分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-10",
+      "subject": "舒杰",
+      "subject_key": "P32",
+      "fact_key": "F33",
+      "material": "2016年6月28日低庄镇安全隐患排查整治方案，低政发2016年25号",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "低庄镇政府的具体道路交通文件/目标责任书；本人2016年1月至2017年2月分管交通且承担相关督促责任。F33/38为多领域文件，仅共享其中明示道路交通部分。签约不推定本人签字，不按各村数量扩充。",
+      "independent_review": {
+        "id": "NEW-10",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年6月安全生产隐患排查整治方案中的交通事项",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 103,
+              "end": 103
+            }
+          ],
+          "reason": "镇政府制发的具名方案可辨，内容包括道路交通。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 103,
+              "end": 103
+            },
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰在当时分管本镇交通，对方案列明的道路交通安全工作可共享；其他行业不随之配给本人。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 103,
+              "end": 103
+            },
+            {
+              "start": 195,
+              "end": 195
+            }
+          ],
+          "reason": "一个月行动在事故前结束，但形成和实施区间均落于舒杰交通分工期间，可作为其当期职责背景。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰本人行政记过为建议阶段。"
+        },
+        "support_refs": [
+          {
+            "start": 103,
+            "end": 103
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "counter_refs": [
+          {
+            "start": 103,
+            "end": 103
+          }
+        ],
+        "reason": "支持已结束的具体交通工作背景，不把该短期行动表述成事故时仍在开展，也不扩大至全行业。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-10",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "只取道路交通职责部分；短期行动已结束，不称事故时仍开展。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 103,
+            "end": 103
+          },
+          {
+            "start": 194,
+            "end": 195
+          },
+          {
+            "start": 103,
+            "end": 103
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 103,
+          "end": 103,
+          "text": "其中，2016年6月28日低庄镇人民政府下发了《低庄镇2016年安全生产隐患排查整治行动工作方案》（低政发﹝2016﹞25号），决定在全镇开展为期一个月的安全隐患排查整治行动，重点排查道路交通、矿山、危险化学品、建筑施工、消防、烟花爆竹、火工产品及其他行业领域。\n",
+          "href": "review-source-XP-0710.html#L103"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 195,
+            "line_end": 195
+          }
+        ],
+        "note": "低庄镇副镇长，2016年1月至2017年2月分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-11",
+      "subject": "舒杰",
+      "subject_key": "P32",
+      "fact_key": "F34",
+      "material": "2016年9月12日低庄镇十条刚性措施农村道路交通安全实施方案",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "低庄镇政府的具体道路交通文件/目标责任书；本人2016年1月至2017年2月分管交通且承担相关督促责任。F33/38为多领域文件，仅共享其中明示道路交通部分。签约不推定本人签字，不按各村数量扩充。",
+      "independent_review": {
+        "id": "NEW-11",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年9月本镇十条刚性措施交通安全实施方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 104,
+              "end": 104
+            }
+          ],
+          "reason": "被审载体是低庄镇自己的实施方案，上级通知仅为依据。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 104,
+              "end": 104
+            },
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "本镇方案涉及农村交通组织与协调，舒杰当时分管交通，且本人被追究同一领域落实责任。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 104,
+              "end": 104
+            },
+            {
+              "start": 195,
+              "end": 195
+            }
+          ],
+          "reason": "形成在舒杰2016年至2017年2月交通分工区间内，并在事故前。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰本人对应行政记过提议。"
+        },
+        "support_refs": [
+          {
+            "start": 104,
+            "end": 104
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持同镇具体交通职责共享；不把市级通知的制发归给舒杰，也不称其个人起草镇方案。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-11",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "共享本镇具体方案，不把上级市通知制发者变成本人，不称本人起草。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 104,
+            "end": 104
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 104,
+          "end": 104,
+          "text": "2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n",
+          "href": "review-source-XP-0710.html#L104"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 195,
+            "line_end": 195
+          }
+        ],
+        "note": "低庄镇副镇长，2016年1月至2017年2月分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-12",
+      "subject": "舒杰",
+      "subject_key": "P32",
+      "fact_key": "F36",
+      "material": "2016年9月低庄镇与村委签订十条刚性措施道路交通目标管理责任书",
+      "owner": "低庄镇人民政府（与所辖村委会签订）",
+      "original_coordinator_reason": "低庄镇政府的具体道路交通文件/目标责任书；本人2016年1月至2017年2月分管交通且承担相关督促责任。F33/38为多领域文件，仅共享其中明示道路交通部分。签约不推定本人签字，不按各村数量扩充。",
+      "independent_review": {
+        "id": "NEW-12",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府（与所辖村委会签订）",
+        "carrier": "2016年9月农村道路交通目标管理责任书",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 108,
+              "end": 108
+            }
+          ],
+          "reason": "镇政府参与签订具体道路交通责任文书，有履职材料依据。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 108,
+              "end": 108
+            },
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰在签订时期分管本镇交通，其本人两实及农村交通落实责任与该道路交通责任文书事项相接。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 108,
+              "end": 108
+            },
+            {
+              "start": 195,
+              "end": 195
+            }
+          ],
+          "reason": "签订时在本人交通分工期间且先于事故；未给出本人实际签字依据。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "本人行政记过属于处理建议。"
+        },
+        "support_refs": [
+          {
+            "start": 108,
+            "end": 108
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "counter_refs": [],
+        "reason": "材料属于具体安全责任文书，区别于纯人事分工；支持职责共享，不认定本人签署。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-12",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "安全责任书有据、非纯人事分工；不认定本人签字，不按村数扩单元。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 108,
+            "end": 108
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 108,
+          "end": 108,
+          "text": "2016年9月，低庄镇政府与所辖各个村委会签订了《低庄镇“十条刚性措施”加强农村道路交通安全工作目标管理责任书》。\n",
+          "href": "review-source-XP-0710.html#L108"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 195,
+            "line_end": 195
+          }
+        ],
+        "note": "低庄镇副镇长，2016年1月至2017年2月分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-13",
+      "subject": "舒杰",
+      "subject_key": "P32",
+      "fact_key": "F37",
+      "material": "2016年10月26日低庄镇取缔三轮车非法营运专项整治实施方案",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "低庄镇政府的具体道路交通文件/目标责任书；本人2016年1月至2017年2月分管交通且承担相关督促责任。F33/38为多领域文件，仅共享其中明示道路交通部分。签约不推定本人签字，不按各村数量扩充。",
+      "independent_review": {
+        "id": "NEW-13",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年10月取缔三轮车非法营运专项整治方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 109,
+              "end": 109
+            }
+          ],
+          "reason": "镇政府制发具体专项方案，目标车辆类别清楚。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 109,
+              "end": 109
+            },
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰当期分管交通，三轮车非法营运整治属于其具体交通工作背景，不因同镇身份泛配。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 109,
+              "end": 109
+            },
+            {
+              "start": 195,
+              "end": 195
+            }
+          ],
+          "reason": "方案制发时属于其交通分工期间，并在事故前；原文没有给出具体截止日。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "本人对应行政记过建议。"
+        },
+        "support_refs": [
+          {
+            "start": 109,
+            "end": 109
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持职责背景共享；肇事车并非三轮车，故不能据此声称本方案直接覆盖该车或本人检查过该车。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-13",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "交通职责背景共享；肇事车不是三轮车，不声称方案直接覆盖该车或检查过该车。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 109,
+            "end": 109
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 109,
+          "end": 109,
+          "text": "2016年10月26日下发了《低庄镇开展取缔三轮车非法营运专项整治行动工作实施方案》，坚决取缔辖区内非法营运三轮车。\n",
+          "href": "review-source-XP-0710.html#L109"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 195,
+            "line_end": 195
+          }
+        ],
+        "note": "低庄镇副镇长，2016年1月至2017年2月分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-14",
+      "subject": "舒杰",
+      "subject_key": "P32",
+      "fact_key": "F38",
+      "material": "2016年11月28日低庄镇岁末年初安全生产三大行动方案",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "低庄镇政府的具体道路交通文件/目标责任书；本人2016年1月至2017年2月分管交通且承担相关督促责任。F33/38为多领域文件，仅共享其中明示道路交通部分。签约不推定本人签字，不按各村数量扩充。",
+      "independent_review": {
+        "id": "NEW-14",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年11月岁末年初安全生产行动方案中的道路交通事项",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 110,
+              "end": 110
+            }
+          ],
+          "reason": "本镇具名方案明确包含道路交通这一安全管理领域。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 110,
+              "end": 110
+            },
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰当期分管交通，足以共享该方案的道路交通部分；不能扩成其负责所有列举行业。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 110,
+              "end": 110
+            },
+            {
+              "start": 195,
+              "end": 195
+            }
+          ],
+          "reason": "岁末年初工作方案在其交通任职期间形成，属于事故前工作背景。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "本人行政记过仍为建议。"
+        },
+        "support_refs": [
+          {
+            "start": 110,
+            "end": 110
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "counter_refs": [],
+        "reason": "具体安全业务与本人分工相接，支持共享；不由责任到人等安排推出已完成检查或个人制作。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-14",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "只取道路交通事项；不把其他行业或安排要求当本人已实施检查。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 110,
+            "end": 110
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 110,
+          "end": 110,
+          "text": "2016年11月28日下发了《低庄镇2016年岁末年初安全生产“大排查、大整治、大管控”行动工作方案》，重点整治管控道路交通等十大行业领域，责任到岗到人。\n",
+          "href": "review-source-XP-0710.html#L110"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 195,
+            "line_end": 195
+          }
+        ],
+        "note": "低庄镇副镇长，2016年1月至2017年2月分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-15",
+      "subject": "舒杰",
+      "subject_key": "P32",
+      "fact_key": "F39",
+      "material": "2017年1月低庄镇与村委签订农村道路交通目标管理责任书",
+      "owner": "低庄镇人民政府（与所辖村委会签订）",
+      "original_coordinator_reason": "低庄镇政府的具体道路交通文件/目标责任书；本人2016年1月至2017年2月分管交通且承担相关督促责任。F33/38为多领域文件，仅共享其中明示道路交通部分。签约不推定本人签字，不按各村数量扩充。",
+      "independent_review": {
+        "id": "NEW-15",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府（与所辖村委会签订）",
+        "carrier": "2017年1月农村道路交通安全目标管理责任书",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 111,
+              "end": 111
+            }
+          ],
+          "reason": "同句中的农村道路交通责任书为本项载体，另一份村居绩效责任书不并入本事实。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 111,
+              "end": 111
+            },
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "舒杰至2017年2月仍分管交通，1月签订的道路交通责任文书与其职责有具体联系。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 111,
+              "end": 111
+            },
+            {
+              "start": 195,
+              "end": 195
+            }
+          ],
+          "reason": "文书签订先于其交通分工终点，也先于事故。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 194,
+              "end": 195
+            }
+          ],
+          "reason": "本人对应行政记过提议，不能写成已经处分。"
+        },
+        "support_refs": [
+          {
+            "start": 111,
+            "end": 111
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持道路交通安全责任书的背景共享；不推定其签名，也不把一般绩效管理文书自动变成其留痕。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-15",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "只取交通安全目标责任书，不自动加入同句一般绩效文书，不推定本人签名。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 111,
+            "end": 111
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 111,
+          "end": 111,
+          "text": "2017年1月低庄镇政府与所辖各个村委会签订了《低庄镇农村道路交通安全工作目标管理责任书》和《低庄镇2017年度村（居）绩效考核目标管理责任书》。\n",
+          "href": "review-source-XP-0710.html#L111"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 195,
+            "line_end": 195
+          }
+        ],
+        "note": "低庄镇副镇长，2016年1月至2017年2月分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-16",
+      "subject": "田向阳",
+      "subject_key": "P31",
+      "fact_key": "F34",
+      "material": "2016年9月12日低庄镇十条刚性措施农村道路交通安全实施方案",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "本人2017年3月起分管交通；F34是未见终止的本镇道路交通组织和十条刚性措施实施背景，F42为任内城区交通治理，F43任内且明示道路交通打非治违。不能把一般绩效考核或所有安全文件一并配给他。",
+      "independent_review": {
+        "id": "NEW-16",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2016年9月本镇十条刚性措施交通安全实施方案",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 104,
+              "end": 104
+            }
+          ],
+          "reason": "载体为镇政府本级实施方案，区别于市级通知。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 104,
+              "end": 104
+            },
+            {
+              "start": 192,
+              "end": 195
+            }
+          ],
+          "reason": "方案建立本镇交委和交管站日常协调框架；田向阳接任交通后被明确归责两实后续工作，与该持续框架相接。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 104,
+              "end": 104
+            },
+            {
+              "start": 192,
+              "end": 195
+            }
+          ],
+          "reason": "形成于其接任前，但方案规定日常交通组织，接任后的同领域后续职责有据；不要求其2016年已在任。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 192,
+              "end": 193
+            }
+          ],
+          "reason": "田向阳本人对应行政记过建议。"
+        },
+        "support_refs": [
+          {
+            "start": 104,
+            "end": 104
+          },
+          {
+            "start": 192,
+            "end": 195
+          }
+        ],
+        "counter_refs": [
+          {
+            "start": 194,
+            "end": 195
+          }
+        ],
+        "reason": "支持接任后的持续交通制度背景共享；前任任期阻止误称其制订方案，不阻断已明示的后续职责。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-16",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "接任后共享持续交通组织/制度背景，不称2016年已任职或本人制订。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 104,
+            "end": 104
+          },
+          {
+            "start": 192,
+            "end": 195
+          },
+          {
+            "start": 194,
+            "end": 195
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 104,
+          "end": 104,
+          "text": "2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n",
+          "href": "review-source-XP-0710.html#L104"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 193,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 195,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        },
+        {
+          "report": "XP-0710",
+          "start": 194,
+          "end": 195,
+          "text": "24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L194"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 193,
+            "line_end": 193
+          }
+        ],
+        "note": "党委委员、人大主席；2017年3月起分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-17",
+      "subject": "田向阳",
+      "subject_key": "P31",
+      "fact_key": "F42",
+      "material": "2017年4月6日低庄镇城区交通市政秩序集中整治实施方案",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "本人2017年3月起分管交通；F34是未见终止的本镇道路交通组织和十条刚性措施实施背景，F42为任内城区交通治理，F43任内且明示道路交通打非治违。不能把一般绩效考核或所有安全文件一并配给他。",
+      "independent_review": {
+        "id": "NEW-17",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2017年4月城区交通、市政秩序集中整治实施方案中的交通事项",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 113,
+              "end": 113
+            }
+          ],
+          "reason": "镇政府履职段内的具名本地方案可辨，交通与市政秩序为组合事项。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 113,
+              "end": 113
+            },
+            {
+              "start": 192,
+              "end": 193
+            }
+          ],
+          "reason": "田向阳当时分管本镇交通，可连接城区交通部分；没有依据把全部市政业务配给本人。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 113,
+              "end": 113
+            },
+            {
+              "start": 193,
+              "end": 193
+            }
+          ],
+          "reason": "4月一周专项早于事故结束，但在其3月起的交通分工期内，是已发生的当期工作背景。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 192,
+              "end": 193
+            }
+          ],
+          "reason": "本人对应行政记过提议。"
+        },
+        "support_refs": [
+          {
+            "start": 113,
+            "end": 113
+          },
+          {
+            "start": 192,
+            "end": 193
+          }
+        ],
+        "counter_refs": [
+          {
+            "start": 113,
+            "end": 113
+          }
+        ],
+        "reason": "支持具体城区交通工作背景，不把城区专项说成直接覆盖事故林区，也不推定事故时该专项仍在开展。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-17",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "城区交通专项不直接等于林区现场监管；一周专项已结束，不称事故日仍开展。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 113,
+            "end": 113
+          },
+          {
+            "start": 192,
+            "end": 193
+          },
+          {
+            "start": 113,
+            "end": 113
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 113,
+          "end": 113,
+          "text": "2017年4月6日制定了《低庄镇城区交通、市政秩序集中整治工作实施方案》，自4月10日起开展为期一周的城区交通、市政府秩序集中整治专项行动。\n",
+          "href": "review-source-XP-0710.html#L113"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 193,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        },
+        {
+          "report": "XP-0710",
+          "start": 193,
+          "end": 193,
+          "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L193"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 193,
+            "line_end": 193
+          }
+        ],
+        "note": "党委委员、人大主席；2017年3月起分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    },
+    {
+      "id": "NEW-18",
+      "subject": "田向阳",
+      "subject_key": "P31",
+      "fact_key": "F43",
+      "material": "2017年5月29日低庄镇安全生产打非治违通知，低政发2017年24号",
+      "owner": "低庄镇人民政府",
+      "original_coordinator_reason": "本人2017年3月起分管交通；F34是未见终止的本镇道路交通组织和十条刚性措施实施背景，F42为任内城区交通治理，F43任内且明示道路交通打非治违。不能把一般绩效考核或所有安全文件一并配给他。",
+      "independent_review": {
+        "id": "NEW-18",
+        "decision": "supported",
+        "material_owner": "低庄镇人民政府",
+        "carrier": "2017年5月安全生产打非治违通知中的道路交通事项",
+        "carrier_owner": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 114,
+              "end": 114
+            }
+          ],
+          "reason": "本镇具名通知及文号可辨，明确包含道路交通。"
+        },
+        "personal_link": {
+          "status": "supported",
+          "refs": [
+            {
+              "start": 114,
+              "end": 114
+            },
+            {
+              "start": 192,
+              "end": 193
+            }
+          ],
+          "reason": "田向阳当期分管交通，可共享该综合安全通知中具体道路交通部分，而非全部十类行业。"
+        },
+        "timing": {
+          "status": "pre_event",
+          "refs": [
+            {
+              "start": 11,
+              "end": 11
+            },
+            {
+              "start": 114,
+              "end": 114
+            },
+            {
+              "start": 193,
+              "end": 193
+            }
+          ],
+          "reason": "形成在其接任后及事故前，专项期间延续到年底，覆盖事故时段。"
+        },
+        "own_outcome": {
+          "status": "accountable",
+          "stage": "suggested",
+          "refs": [
+            {
+              "start": 192,
+              "end": 193
+            }
+          ],
+          "reason": "本人行政记过为建议阶段。"
+        },
+        "support_refs": [
+          {
+            "start": 114,
+            "end": 114
+          },
+          {
+            "start": 192,
+            "end": 193
+          }
+        ],
+        "counter_refs": [],
+        "reason": "支持与分管交通相接的本镇通知背景共享；材料存在不证明本人落实、检查次数或工作有效。",
+        "missing_evidence": []
+      },
+      "coordinator_handling": {
+        "id": "NEW-18",
+        "decision": "supported",
+        "action": "retain_with_explicit_boundary",
+        "basis": "主会话已回源核材料段59—115、相关原因段137—142及本人处理段174—197，与现有共享口径一致；复核未新增制作/签名/制作时任职门槛。",
+        "boundary": "只共享通知的道路交通事项，不把材料存在当本人落实、实际检查次数或有效。",
+        "author_adjudication_needed": false,
+        "refs": [
+          {
+            "start": 114,
+            "end": 114
+          },
+          {
+            "start": 192,
+            "end": 193
+          }
+        ]
+      },
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 11,
+          "end": 11,
+          "text": "怀化市溆浦县深子湖镇“7.10”较大翻车事故调查报告2017年7月10日19时30分许，一辆号牌为湘L20869的小车在溆浦县深子湖镇黄溪湾村张家冲组（溆浦县多韵农生态科技发展有限公司林区专用公路）发生一起翻车事故，造成5人死亡、1人受伤，直接经济损失人民币190余万元。\n",
+          "href": "review-source-XP-0710.html#L11"
+        },
+        {
+          "report": "XP-0710",
+          "start": 114,
+          "end": 114,
+          "text": "2017年5月29日下发了《低庄镇人民政府关于深入开展安全生产领域“打非治违”专项行动的通知》（低政发﹝2017﹞24号），自5月下旬至12月底，重点整治非煤矿山、道路交通、人员密集场所等十大行业领域。\n",
+          "href": "review-source-XP-0710.html#L114"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 193,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        },
+        {
+          "report": "XP-0710",
+          "start": 193,
+          "end": 193,
+          "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L193"
+        }
+      ],
+      "own_outcome": {
+        "status": "行政记过",
+        "stage": "suggested",
+        "refs": [
+          {
+            "line_start": 193,
+            "line_end": 193
+          }
+        ],
+        "note": "党委委员、人大主席；2017年3月起分管交通。"
+      },
+      "mode": "shared",
+      "provenance": "独立新上下文模型复核 + 主会话回源处理；非作者追加裁决"
+    }
+  ],
+  "global_boundaries": [
+    {
+      "issue": "18项均支持限定的shared联系；这不等于本人亲自形成或实施材料，也不是对18项以外的查全结论。",
+      "scope": "仅本包18候选",
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 86,
+          "end": 86,
+          "text": "2016年7月22日深子湖镇人民政府制定了《深子湖镇交通安全隐患排查和治理工作方案》。\n",
+          "href": "review-source-XP-0710.html#L86"
+        },
+        {
+          "report": "XP-0710",
+          "start": 92,
+          "end": 92,
+          "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+          "href": "review-source-XP-0710.html#L92"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 195,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n20、向益春，男，溆浦县公安局交警大队三中队长。\n对辖区的车辆监管存在漏洞，对假牌套版车辆打击不力；没有认真督促、指导落实“两实”信息采集工作，对事故发生负有直接监管责任，建议给予行政记大过处分。\n21、宋克洋，男，溆浦县低庄镇党委书记。\n没有严格落实“党政同责、一岗双责”要求，落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        }
+      ]
+    },
+    {
+      "issue": "刘兴、田向阳的存量两实背景各有本人具体职责连接；同次采集与台账仍合一个事实，没有已完成逐月更新的依据。",
+      "scope": "NEW-08、NEW-09",
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 115,
+          "end": 115,
+          "text": "低庄镇政府对“两实”（农村实有车辆、实有驾驶人）信息采集进行了部署安排，在2016年9月进行了一次收集，没有按规定进行一月一更新，“两实”信息采集台账中没有本次事故肇事车辆登记信息。\n",
+          "href": "review-source-XP-0710.html#L115"
+        },
+        {
+          "report": "XP-0710",
+          "start": 138,
+          "end": 138,
+          "text": "低庄镇“两实”信息底数不清。2016年8月1日中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），要求坚决落实“两实”信息采集，即农村实有车辆、实有驾驶人基础信息采集。低庄镇人民政府开展了“两实”信息工作，但没有按照文件的要求落实到位，没有及时更新和上报，事故车辆原车主谢墩丁自2012年起就租住在低庄镇粮站内，低庄镇粮站地处荆湖村和低庄镇村交界，事故车辆自2015年12月26日起长期停放在粮站内，至事故发生前已长达1年多时间，荆湖村和低庄镇村均没有将该车信息进行“两实”登记，并上报上级政府及相关部门。\n",
+          "href": "review-source-XP-0710.html#L138"
+        },
+        {
+          "report": "XP-0710",
+          "start": 190,
+          "end": 195,
+          "text": "22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L190"
+        }
+      ]
+    },
+    {
+      "issue": "田向阳对先前镇级方案的联系依靠交通组织日常框架及后续职责，不能误称其在制订时任职或本人制订。",
+      "scope": "NEW-16",
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 104,
+          "end": 104,
+          "text": "2016年9月12日下发了《低庄镇“十条刚性措施”加强农村道路交通安全管理工作实施方案》，落实中共怀化市委办公室、怀化市人民政府办公室印发了《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发﹝2016﹞61号），成立低庄镇道路交通安全委员会，由镇交管站承担日常组织协调工作。\n",
+          "href": "review-source-XP-0710.html#L104"
+        },
+        {
+          "report": "XP-0710",
+          "start": 192,
+          "end": 195,
+          "text": "23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L192"
+        }
+      ]
+    },
+    {
+      "issue": "已结束方案仍可作为本人当期或被明确评价的工作背景；不能表述成事故日仍在进行。项晓雁的精确任职起点未给出，支持依据为负责人及本人相关工作跟进归责。",
+      "scope": "NEW-03、NEW-04、NEW-10、NEW-17",
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 67,
+          "end": 68,
+          "text": "2017年2月14日溆浦县公安局交通警察大队制定了《县交警大队2017年春夏道路交通严打整治专项行动工作方案》，决定从即日起至2017年6月30日在全县范围内开展一次春夏道路交通严打整治专项行动，重点整治无证驾驶、违规驾驶、套牌、故意遮挡和污损号牌、酒驾、毒驾等违法违规行为。\n2017年3月1日制定了《溆浦县交警大队开展集中打击重点交通违法行为“百日会战”行动方案》（溆公交字﹝2017﹞11号），自2月28日至6月7日，在全县范围内开展集中打击重点交通违法行为“百日会战”行动，重点以城区道路和农村道路“两个主战场”，重点查处超员超速、疲劳驾驶、涉牌涉证、酒驾毒驾、违法载人等违法行为。\n",
+          "href": "review-source-XP-0710.html#L67"
+        },
+        {
+          "report": "XP-0710",
+          "start": 103,
+          "end": 103,
+          "text": "其中，2016年6月28日低庄镇人民政府下发了《低庄镇2016年安全生产隐患排查整治行动工作方案》（低政发﹝2016﹞25号），决定在全镇开展为期一个月的安全隐患排查整治行动，重点排查道路交通、矿山、危险化学品、建筑施工、消防、烟花爆竹、火工产品及其他行业领域。\n",
+          "href": "review-source-XP-0710.html#L103"
+        },
+        {
+          "report": "XP-0710",
+          "start": 113,
+          "end": 113,
+          "text": "2017年4月6日制定了《低庄镇城区交通、市政秩序集中整治工作实施方案》，自4月10日起开展为期一周的城区交通、市政府秩序集中整治专项行动。\n",
+          "href": "review-source-XP-0710.html#L113"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        },
+        {
+          "report": "XP-0710",
+          "start": 193,
+          "end": 193,
+          "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L193"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ]
+    },
+    {
+      "issue": "综合方案按本人交通职责连接，不能据此扩配林业、市政及其他全部行业；三轮车和城区专项也不能改写成针对本次肇事车辆或林区现场的行动。",
+      "scope": "NEW-02、NEW-10、NEW-13、NEW-14、NEW-17、NEW-18",
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 92,
+          "end": 92,
+          "text": "2017年3月2日制定了《深子湖镇2017年镇村安全隐患排查工作方案》（深政发﹝2017﹞11号），要求对机动车辆、林场等方面进行安全隐患排查。\n",
+          "href": "review-source-XP-0710.html#L92"
+        },
+        {
+          "report": "XP-0710",
+          "start": 103,
+          "end": 103,
+          "text": "其中，2016年6月28日低庄镇人民政府下发了《低庄镇2016年安全生产隐患排查整治行动工作方案》（低政发﹝2016﹞25号），决定在全镇开展为期一个月的安全隐患排查整治行动，重点排查道路交通、矿山、危险化学品、建筑施工、消防、烟花爆竹、火工产品及其他行业领域。\n",
+          "href": "review-source-XP-0710.html#L103"
+        },
+        {
+          "report": "XP-0710",
+          "start": 109,
+          "end": 109,
+          "text": "2016年10月26日下发了《低庄镇开展取缔三轮车非法营运专项整治行动工作实施方案》，坚决取缔辖区内非法营运三轮车。\n",
+          "href": "review-source-XP-0710.html#L109"
+        },
+        {
+          "report": "XP-0710",
+          "start": 110,
+          "end": 110,
+          "text": "2016年11月28日下发了《低庄镇2016年岁末年初安全生产“大排查、大整治、大管控”行动工作方案》，重点整治管控道路交通等十大行业领域，责任到岗到人。\n",
+          "href": "review-source-XP-0710.html#L110"
+        },
+        {
+          "report": "XP-0710",
+          "start": 113,
+          "end": 114,
+          "text": "2017年4月6日制定了《低庄镇城区交通、市政秩序集中整治工作实施方案》，自4月10日起开展为期一周的城区交通、市政府秩序集中整治专项行动。\n2017年5月29日下发了《低庄镇人民政府关于深入开展安全生产领域“打非治违”专项行动的通知》（低政发﹝2017﹞24号），自5月下旬至12月底，重点整治非煤矿山、道路交通、人员密集场所等十大行业领域。\n",
+          "href": "review-source-XP-0710.html#L113"
+        },
+        {
+          "report": "XP-0710",
+          "start": 181,
+          "end": 181,
+          "text": "2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L181"
+        },
+        {
+          "report": "XP-0710",
+          "start": 193,
+          "end": 193,
+          "text": "2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L193"
+        },
+        {
+          "report": "XP-0710",
+          "start": 195,
+          "end": 195,
+          "text": "2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L195"
+        }
+      ]
+    },
+    {
+      "issue": "五位被审个人的结果均有本人处理提议依据；不转用机关处理结果，不把建议写成已执行或把有材料写成免责。",
+      "scope": "全部18项",
+      "evidence": [
+        {
+          "report": "XP-0710",
+          "start": 180,
+          "end": 181,
+          "text": "17、严洪波，男，溆浦县深子湖镇党委委员、政协联工委主任，道交委副主任、交管站站长。\n2016年1月至今分管深子湖镇交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L180"
+        },
+        {
+          "report": "XP-0710",
+          "start": 184,
+          "end": 185,
+          "text": "19、项晓雁，男，溆浦县公安局交警大队大队长，联系三中队。\n疏于管理，没有认真督促三中队落实“两实”信息采集工作；对开展的相关工作没有及时跟进，没有及时总结成效，致使监管存在漏洞；督促落实打击假牌套牌车辆不力，对事故发生负主要领导责任，建议给予党内警告处分。\n",
+          "href": "review-source-XP-0710.html#L184"
+        },
+        {
+          "report": "XP-0710",
+          "start": 190,
+          "end": 195,
+          "text": "22、刘兴，男，溆浦县低庄镇镇长。\n落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有重要领导责任，建议对其诫勉谈话。\n23、田向阳，男，溆浦县低庄镇党委委员、人大主席，分管交通。\n2017年3月至今分管交通工作。落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集后续排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n24、舒杰，男，溆浦县低庄镇副镇长，原分管交通领导。\n2016年1月至2017年2月分管交通工作。在分管交通工作期间落实《关于采取十条刚性措施加强农村道路交通安全工作的通知》（怀办发〔2016〕61号）文件精神不到位，对镇辖区内“两实”信息采集排查督促不到位，对事故发生负有主要领导责任，建议给予行政记过处分。\n",
+          "href": "review-source-XP-0710.html#L190"
+        }
+      ]
+    }
+  ],
+  "source_delivery": true,
+  "limitations": [
+    "实际顺序阅读全文1—211行；随后按候选材料与个人职责、时间、处理段反核，未读取旧答案、覆盖审计、交接、外网或其他代理结果。",
+    "核对了本包9个输入文件的字节数及SHA-256，均与input_manifest.json一致；校验只说明输入一致，不替代内容判断。",
+    "结论仅限本地报告文本及给定口径；外部附件、原件、行政文书归档及报告外事实未核。非生产经营性事故总体纳入范围仍未定。",
+    "本轮不验证候选池召回、全部公共自然人、材料真实性或监管效果；18项均支持是逐项语义判断，不构成独立人工金标准或模型共识证据。",
+    "响应用量unknown；首答1次，无下级代理、升级或重试。"
+  ],
+  "not_gold": true,
+  "next_validation": "prepared_not_executed; same XP report two independent extraction attempts maximum"
+}
